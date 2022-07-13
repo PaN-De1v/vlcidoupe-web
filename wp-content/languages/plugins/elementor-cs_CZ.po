@@ -1,0 +1,4774 @@
+# Translation of Plugins - Elementor Website Builder - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Elementor Website Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-27 06:30:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Elementor Website Builder - Stable (latest release)\n"
+
+#: includes/settings/settings.php:581
+msgid "Optional"
+msgstr "Volitelné"
+
+#: includes/settings/settings.php:579
+msgid "Swap"
+msgstr "Vyměnit"
+
+#: includes/settings/settings.php:578
+msgid "Blocking"
+msgstr "Blokování"
+
+#: includes/widgets/common.php:428 includes/widgets/common.php:436
+msgid "Mask"
+msgstr "Maska"
+
+#: includes/widgets/common.php:71
+msgid "Hexagon"
+msgstr "Šestiúhelník"
+
+#: includes/widgets/common.php:70
+msgid "Blob"
+msgstr "Kapka"
+
+#: includes/widgets/common.php:69
+msgid "Triangle"
+msgstr "Trojúhelník"
+
+#: includes/widgets/common.php:68
+msgid "Sketch"
+msgstr "Skica"
+
+#: includes/widgets/common.php:67
+msgid "Flower"
+msgstr "Květ"
+
+#: core/breakpoints/manager.php:313
+msgid "Widescreen"
+msgstr "Širokoúhlý"
+
+#: core/app/modules/import-export/module.php:234
+msgid "Start Import"
+msgstr "Spustit import"
+
+#: core/app/modules/import-export/module.php:222
+msgid "Start Export"
+msgstr "Spustit export"
+
+#: core/app/modules/import-export/module.php:231 assets/js/app-packages.js:8066
+#: assets/js/app-packages.js:8210 assets/js/app-packages.js:8703
+#: assets/js/app-packages.js:8959 assets/js/app.js:7378 assets/js/app.js:7522
+#: assets/js/app.js:8015 assets/js/app.js:8271
+msgid "Import a Template Kit"
+msgstr "Importovat sadu šablon"
+
+#: core/app/modules/import-export/module.php:219 assets/js/app-packages.js:7653
+#: assets/js/app-packages.js:8918 assets/js/app.js:6965 assets/js/app.js:8230
+msgid "Export a Template Kit"
+msgstr "Exportovat sadu šablon"
+
+#: core/app/modules/import-export/module.php:272
+msgid "Import / Export Kit"
+msgstr "Importovat / Exportovat sadu"
+
+#: core/app/modules/import-export/module.php:275
+msgid "Template Kits"
+msgstr "Sady šablon"
+
+#: core/app/modules/import-export/module.php:208
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:3147
+msgid "Learn more"
+msgstr "Zjistit více"
+
+#: modules/shapes/widgets/text-path.php:118
+msgid "SVG"
+msgstr "SVG"
+
+#: core/utils/import-export/wp-import.php:1125
+msgid "Downloaded file has incorrect size"
+msgstr "Stažený soubor má nesprávnou velikost"
+
+#: core/utils/import-export/wp-import.php:1036
+msgid "Invalid file type"
+msgstr "Neplatný typ souboru"
+
+#: core/utils/import-export/wp-import.php:1019
+msgid "Fetching attachments is not enabled"
+msgstr "Načítání příloh není povoleno"
+
+#: core/utils/import-export/wp-import.php:238
+msgid "The file does not exist, please try again."
+msgstr "Soubor neexistuje, zkuste to prosím znovu."
+
+#: modules/shapes/module.php:25
+msgid "Spiral"
+msgstr "Spirála"
+
+#: modules/shapes/module.php:24
+msgid "Oval"
+msgstr "Ovál"
+
+#: modules/shapes/module.php:21
+msgid "Arc"
+msgstr "Oblouk"
+
+#: modules/shapes/widgets/text-path.php:188
+msgid "LTR"
+msgstr "Zleva doprava"
+
+#: modules/shapes/widgets/text-path.php:187
+msgid "RTL"
+msgstr "Zprava doleva"
+
+#: modules/shapes/widgets/text-path.php:182
+msgid "Text Direction"
+msgstr "Směr textu"
+
+#: core/utils/import-export/parsers/wxr-parser-simple-xml.php:56
+#: core/utils/import-export/parsers/wxr-parser-simple-xml.php:64
+msgid "There was an error when reading this WXR file"
+msgstr "Při čtení tohoto WXR souboru došlo k chybě"
+
+#: core/utils/import-export/parsers/wxr-parser-regex.php:146
+#: core/utils/import-export/parsers/wxr-parser-simple-xml.php:69
+#: core/utils/import-export/parsers/wxr-parser-simple-xml.php:75
+#: core/utils/import-export/parsers/wxr-parser-xml.php:189
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Zdá se, že se nejedná o soubor WXR, chybějící/neplatné číslo verze WXR"
+
+#: core/kits/documents/tabs/settings-layout.php:177
+msgid "Mobile and Tablet options cannot be deleted."
+msgstr "Možnosti pro mobily a tablety nelze odstranit."
+
+#: includes/controls/groups/background.php:625
+msgid "Only works for YouTube videos."
+msgstr "Funguje pouze pro YouTube videa."
+
+#: includes/controls/groups/background.php:623
+msgid "Privacy mode"
+msgstr "Soukromý mód"
+
+#: core/admin/notices/elementor-dev-notice.php:83
+msgid "Install & Activate"
+msgstr "Instalovat & aktivovat"
+
+#: core/admin/admin.php:488
+msgid "Find an Expert"
+msgstr "Najděte odborníka"
+
+#: core/experiments/manager.php:322
+msgid "Stable"
+msgstr "Stabilní"
+
+#: core/experiments/manager.php:320
+msgid "Beta"
+msgstr "Beta"
+
+#: core/experiments/manager.php:319
+msgid "Alpha"
+msgstr "Alfa"
+
+#: core/common/modules/finder/categories/settings.php:56
+#: core/experiments/manager.php:388 core/experiments/manager.php:409
+msgid "Experiments"
+msgstr "Experimenty"
+
+#: core/experiments/manager.php:451
+msgid "Status: %s"
+msgstr "Stav: %s"
+
+#: core/experiments/manager.php:321
+msgid "Release Candidate"
+msgstr "Release Candidate"
+
+#: core/experiments/manager.php:318
+msgid "Development"
+msgstr "Vývojová verze"
+
+#: core/experiments/manager.php:374
+msgid "No available experiments"
+msgstr "Nejsou dostupné žádné experimenty"
+
+#: core/experiments/manager.php:478
+msgid "Active by default"
+msgstr "Ve výchozím stavu aktivní"
+
+#: core/experiments/manager.php:478
+msgid "Inactive by default"
+msgstr "Ve výchozím stavu neaktivní"
+
+#: core/admin/notices/elementor-dev-notice.php:77
+msgid "Elementor Developer Edition"
+msgstr "Elementor Vývojářská edice"
+
+#: core/experiments/manager.php:259
+msgid "Accessibility Improvements"
+msgstr "Vylepšení přístupnosti"
+
+#: core/experiments/manager.php:260
+msgid "An array of accessibility enhancements in Elementor pages."
+msgstr "Sada vylepšení přístupnosti na stránkách Elementoru."
+
+#: core/experiments/manager.php:261
+msgid "These enhancements may include some markup changes to existing elementor widgets"
+msgstr "Tyto vylepšení můžou obsahovat změny v zápisu existujících widgetů"
+
+#: core/experiments/manager.php:232
+msgid "Improved Asset Loading"
+msgstr "Vylepšené načítání assetů"
+
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:42
+msgid "Plugin"
+msgstr "Plugin"
+
+#: modules/compatibility-tag/compatibility-tag-report.php:103
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:57
+msgid "Unknown"
+msgstr "Neznámé"
+
+#. translators: %s - Elementor plugin name
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:45
+msgid "Tested up to %s version"
+msgstr "Vyzkoušeno až do verze %s"
+
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:28
+msgid "Compatibility Alert"
+msgstr "Upozornění kompatibility"
+
+#: core/kits/views/trash-kit-confirmation.php:33
+msgid "Keep my settings"
+msgstr "Zanechat moje nastavení"
+
+#: modules/page-templates/module.php:159
+msgctxt "Page Template"
+msgid "Theme"
+msgstr "Šablona"
+
+#: includes/controls/media.php:176
+msgid "Choose SVG"
+msgstr "Zvolit SVG"
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:56 assets/js/admin.js:5370
+msgid "Migrate to v3.0"
+msgstr "Migrovat na v3.0"
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:50
+msgid "Rerun Update Script"
+msgstr "Znovu spustit aktualizační skript"
+
+#: includes/widgets/icon-list.php:159
+msgid "Items"
+msgstr "Položky"
+
+#: includes/widgets/common.php:503 includes/widgets/image.php:363
+msgid "Fill"
+msgstr "Vyplnit"
+
+#: includes/frontend.php:1246
+msgid "Download"
+msgstr "Stáhnout"
+
+#: core/settings/editor-preferences/model.php:38 assets/js/editor.js:20698
+msgid "User Preferences"
+msgstr "Uživatelské předvolby"
+
+#: core/kits/documents/tabs/settings-site-identity.php:87
+msgid "Site Logo"
+msgstr "Logo webu"
+
+#: core/kits/documents/tabs/settings-site-identity.php:65
+msgid "Site Name"
+msgstr "Název webu"
+
+#: core/kits/documents/tabs/settings-site-identity.php:20
+msgid "Site Identity"
+msgstr "Identita webu"
+
+#: core/kits/documents/tabs/settings-layout.php:143
+msgid "Theme"
+msgstr "Šablona"
+
+#: modules/compatibility-tag/compatibility-tag-report.php:153
+msgid "Error"
+msgstr "Chyba"
+
+#: core/common/modules/connect/apps/base-app.php:102
+msgid "Reset Data"
+msgstr "Obnovit data"
+
+#: includes/controls/media.php:233
+msgid "Click the media icon to upload file"
+msgstr "Kliknutím na ikonu média nahrát soubor"
+
+#: includes/settings/settings.php:560 assets/js/editor.js:22539
+msgid "Enable Unfiltered File Uploads"
+msgstr "Povolit nefiltrovaná nahrávání souborů"
+
+#: modules/safe-mode/module.php:400
+msgid "If you are experiencing a loading issue, contact your site administrator to troubleshoot the problem using Safe Mode."
+msgstr "Pokud pozorujete problémy s načítáním, kontaktujte vašeho správce a pokuste se problem vyřešit v rámci režimu Safe Mode."
+
+#: includes/managers/icons.php:502
+msgid "We highly recommend backing up your database before performing this upgrade."
+msgstr "Před provedením tohoto upgradu důrazně doporučujeme zálohovat databázi."
+
+#: core/kits/documents/tabs/theme-style-typography.php:49
+msgid "Body"
+msgstr "Tělo"
+
+#: core/base/db-upgrades-manager.php:114
+msgid "Click here to run it now"
+msgstr "Klikněte zde pro okamžité spuštění"
+
+#: includes/frontend.php:1247
+msgid "Download image"
+msgstr "Stáhnout obrázek"
+
+#: includes/frontend.php:1244
+msgid "Share on Twitter"
+msgstr "Sdílet na Twitteru"
+
+#: includes/frontend.php:1243
+msgid "Share on Facebook"
+msgstr "Sdílet na Facebooku"
+
+#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1250
+msgid "Share"
+msgstr "Sdílet"
+
+#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1248
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+#: core/kits/manager.php:124 core/kits/manager.php:142
+msgid "Default Kit"
+msgstr "Výchozí sada"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:23
+#: core/kits/documents/tabs/theme-style-buttons.php:63
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: core/settings/editor-preferences/model.php:51
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: includes/settings/settings.php:323
+msgid "Add Your Custom Icons"
+msgstr "Přidat vlastní ikony"
+
+#: includes/settings/settings.php:155 includes/settings/settings.php:156
+msgid "Custom Icons"
+msgstr "Vlastní ikony"
+
+#: core/logger/log-reporter.php:33
+msgid "Clear Log"
+msgstr "Vyprázdnit log"
+
+#: includes/controls/groups/background.php:103
+msgctxt "Background Control"
+msgid "Video"
+msgstr "Video"
+
+#: includes/controls/groups/background.php:650
+msgctxt "Background Control"
+msgid "Images"
+msgstr "Obrázky"
+
+#: includes/controls/groups/background.php:682
+msgid "Transition"
+msgstr "Přechod"
+
+#: includes/controls/groups/background.php:107
+msgctxt "Background Control"
+msgid "Slideshow"
+msgstr "Prezentace"
+
+#: includes/controls/groups/background.php:672
+msgid "Duration"
+msgstr "Délka trvání"
+
+#: includes/widgets/divider.php:474
+msgid "Add Element"
+msgstr "Přidat prvek"
+
+#: includes/frontend.php:1252 includes/widgets/image-carousel.php:786
+#: assets/js/app-packages.js:8038 assets/js/app-packages.js:8664
+#: assets/js/app.js:7350 assets/js/app.js:7976
+msgid "Previous"
+msgstr "Předchozí"
+
+#: includes/frontend.php:1253 includes/widgets/image-carousel.php:790
+#: assets/js/app-packages.js:7966 assets/js/app-packages.js:8670
+#: assets/js/app.js:7278 assets/js/app.js:7982
+msgid "Next"
+msgstr "Další"
+
+#: includes/widgets/divider.php:645
+msgid "Amount"
+msgstr "Množství"
+
+#: includes/widgets/divider.php:279
+msgctxt "shapes"
+msgid "Tribal"
+msgstr "Kmenový"
+
+#: includes/widgets/divider.php:270
+msgctxt "shapes"
+msgid "Trees"
+msgstr "Stromy"
+
+#: includes/widgets/divider.php:261
+msgctxt "shapes"
+msgid "Squares"
+msgstr "Čtverce"
+
+#: includes/widgets/divider.php:318 modules/shapes/module.php:23
+msgid "Line"
+msgstr "Linka"
+
+#: includes/widgets/divider.php:288
+msgctxt "shapes"
+msgid "X"
+msgstr "X"
+
+#: includes/widgets/image-gallery.php:44
+msgid "Basic Gallery"
+msgstr "Základní galerie"
+
+#: includes/widgets/divider.php:252
+msgctxt "shapes"
+msgid "Stripes"
+msgstr "Pruhy"
+
+#: includes/widgets/divider.php:243
+msgctxt "shapes"
+msgid "Leaves"
+msgstr "Listy"
+
+#: includes/widgets/divider.php:234
+msgctxt "shapes"
+msgid "Half Rounds"
+msgstr "Půlkruhy"
+
+#: includes/widgets/divider.php:225
+msgctxt "shapes"
+msgid "Fir Tree"
+msgstr "Jedle"
+
+#: includes/widgets/divider.php:216
+msgctxt "shapes"
+msgid "Dots"
+msgstr "Tečky"
+
+#: includes/widgets/divider.php:207
+msgctxt "shapes"
+msgid "Rectangles"
+msgstr "Obdélníky"
+
+#: includes/widgets/divider.php:199
+msgctxt "shapes"
+msgid "Parallelogram"
+msgstr "Rovnoběžník"
+
+#: includes/widgets/divider.php:191
+msgctxt "shapes"
+msgid "Rhombus"
+msgstr "Kosočtverec"
+
+#: includes/widgets/divider.php:183
+msgctxt "shapes"
+msgid "Pluses"
+msgstr "Plusy"
+
+#: includes/widgets/divider.php:175
+msgctxt "shapes"
+msgid "Arrows"
+msgstr "Šipky"
+
+#: includes/widgets/divider.php:167 includes/widgets/divider.php:297
+msgctxt "shapes"
+msgid "Zigzag"
+msgstr "Cikcak"
+
+#: includes/widgets/divider.php:159
+msgctxt "shapes"
+msgid "Wavy"
+msgstr "Vlnitý"
+
+#: includes/widgets/divider.php:151
+msgctxt "shapes"
+msgid "Squared"
+msgstr "Čtvercový"
+
+#: includes/widgets/divider.php:142
+msgctxt "shapes"
+msgid "Slashes"
+msgstr "Lomítka"
+
+#: includes/widgets/divider.php:134
+msgctxt "shapes"
+msgid "Multiple"
+msgstr "Složený"
+
+#: includes/widgets/divider.php:126
+msgctxt "shapes"
+msgid "Curved"
+msgstr "Zakřivený"
+
+#: includes/widgets/divider.php:118
+msgctxt "shapes"
+msgid "Curly"
+msgstr "Kudrnatý"
+
+#: includes/controls/icons.php:89 includes/controls/icons.php:114
+#: includes/controls/icons.php:116
+msgid "Upload SVG"
+msgstr "Nahrát SVG"
+
+#: includes/controls/media.php:173
+msgid "Choose Video"
+msgstr "Zvolit video"
+
+#: includes/template-library/sources/local.php:549
+msgid "Template not exist."
+msgstr "Šablona neexistuje."
+
+#: includes/base/widget-base.php:981
+msgid "Deprecated"
+msgstr "Zastaralé"
+
+#: includes/managers/icons.php:515
+msgid "Upgrade To Font Awesome 5"
+msgstr "Upgrade na Font Awesome 5"
+
+#: includes/managers/icons.php:504
+msgid "This action is not reversible and cannot be undone by rolling back to previous versions."
+msgstr "Tato akce je nevratná a nelze ji vzít zpět přechodem na předchozí verze."
+
+#: includes/controls/media.php:245 assets/js/editor.js:4015
+msgid "Upload"
+msgstr "Nahrát"
+
+#: includes/admin-templates/beta-tester.php:32
+msgid "Your Email"
+msgstr "Váš e-mail"
+
+#: includes/controls/icons.php:88 includes/controls/icons.php:121
+#: includes/controls/icons.php:125 assets/js/editor.js:4747
+msgid "Icon Library"
+msgstr "Knihovna ikon"
+
+#: core/editor/editor.php:205
+msgid "Document not found."
+msgstr "Dokument nenalezen."
+
+#: includes/managers/icons.php:212
+msgid "All Icons"
+msgstr "Všechny ikony"
+
+#: core/debug/classes/htaccess.php:11
+msgid "Your site's .htaccess file appears to be missing."
+msgstr "Zdá se, že na vašem webu chybí soubor .htaccess."
+
+#: core/debug/classes/theme-missing.php:22
+msgid "Some of your theme files are missing."
+msgstr "Některé soubory vaší šablony chybí."
+
+#: includes/settings/settings.php:568
+msgid "We recommend you only enable this feature if you understand the security risks involved."
+msgstr "Doporučujeme tuto funkci povolit, pouze pokud rozumíte příslušným bezpečnostním rizikům."
+
+#: includes/settings/settings.php:197
+msgid "Get Help"
+msgstr "Získat pomoc"
+
+#: includes/elements/section.php:477
+msgid "Hidden"
+msgstr "Skrytý"
+
+#: includes/elements/column.php:815 includes/elements/section.php:1258
+#: includes/widgets/common.php:202
+msgid "Motion Effects"
+msgstr "Pohybové efekty"
+
+#: includes/widgets/common.php:905
+msgid "Vertical Orientation"
+msgstr "Vertikální orientace"
+
+#: includes/widgets/common.php:802
+msgid "Horizontal Orientation"
+msgstr "Horizontální orientace"
+
+#: includes/widgets/common.php:789
+msgid "Fixed"
+msgstr "Fixováno"
+
+#: includes/widgets/common.php:788
+msgid "Absolute"
+msgstr "Absolutní"
+
+#: includes/widgets/common.php:770
+msgid "Custom positioning is not considered best practice for responsive web design and should not be used too frequently."
+msgstr "Vlastní umístění není považováno za nejlepší pro citlivý web design a nemělo by být používáno příliš často."
+
+#: includes/elements/column.php:211
+msgid "Horizontal Align"
+msgstr "Vodorovné zarovnání"
+
+#: includes/elements/column.php:193 includes/elements/column.php:221
+#: includes/elements/section.php:454
+msgid "Space Evenly"
+msgstr "Prostor rovnoměrně"
+
+#: includes/elements/column.php:192 includes/elements/column.php:220
+#: includes/elements/section.php:453
+msgid "Space Around"
+msgstr "Prostor kolem"
+
+#: includes/elements/column.php:183 includes/elements/section.php:444
+#: includes/widgets/common.php:741 includes/widgets/image-carousel.php:521
+msgid "Vertical Align"
+msgstr "Vertikální zarovnání"
+
+#: core/experiments/manager.php:261 includes/widgets/common.php:770
+msgid "Please note!"
+msgstr "Poznámka!"
+
+#: includes/settings/controls.php:236
+msgid "Super Admin"
+msgstr "Super admin"
+
+#: includes/widgets/common.php:704
+msgid "Custom Width"
+msgstr "Vlastní šířka"
+
+#: modules/safe-mode/module.php:289
+msgid "The issue was probably caused by one of your plugins or theme."
+msgstr "Problém pravděpodobně způsobil některý z vašich pluginů nebo šablona."
+
+#: includes/controls/media.php:179 includes/widgets/video.php:201
+msgid "Choose File"
+msgstr "Vyberte soubor"
+
+#: includes/widgets/image-gallery.php:159
+msgid "Order By"
+msgstr "Seřadit podle"
+
+#: includes/widgets/read-more.php:88
+msgid "Continue reading"
+msgstr "Pokračovat ve čtení"
+
+#: includes/widgets/google-maps.php:130
+msgid "Location"
+msgstr "Umístění"
+
+#: includes/widgets/read-more.php:41 includes/widgets/read-more.php:84
+msgid "Read More"
+msgstr "Přečtěte si více"
+
+#. translators: %s: Name of current post
+#: includes/frontend.php:1376
+msgid "Continue reading %s"
+msgstr "Pokračovat ve čtení %s"
+
+#: includes/template-library/sources/local.php:1339
+msgctxt "Template Library"
+msgid "Filter by category"
+msgstr "Filtrovat podle kategorie"
+
+#: includes/template-library/sources/local.php:311
+msgctxt "Template Library"
+msgid "Category"
+msgstr "Kategorie"
+
+#: includes/template-library/sources/local.php:231
+msgctxt "Template Library"
+msgid "Templates"
+msgstr "Šablony"
+
+#: includes/frontend.php:1369
+msgid "(more&hellip;)"
+msgstr "(více&hellip;)"
+
+#: includes/template-library/sources/local.php:312
+msgctxt "Template Library"
+msgid "All Categories"
+msgstr "Všechny kategorie"
+
+#: includes/template-library/sources/local.php:310
+msgctxt "Template Library"
+msgid "Categories"
+msgstr "Kategorie"
+
+#: includes/controls/groups/background.php:361
+msgctxt "Background Control"
+msgid "Y Position"
+msgstr "Y Pozice"
+
+#: includes/controls/groups/background.php:295
+msgctxt "Background Control"
+msgid "X Position"
+msgstr "X Pozice"
+
+#: includes/settings/settings.php:345
+msgid "Get Popup Builder"
+msgstr "Získejte Popup Builder"
+
+#: includes/settings/settings.php:171
+#: includes/template-library/sources/local.php:1636
+#: assets/js/app-packages.js:9377 assets/js/app.js:8689
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:1815
+msgid "Popups"
+msgstr "Vyskakovací okna"
+
+#: modules/safe-mode/module.php:387
+msgid "Enable Safe Mode"
+msgstr "Povolit nouzový režim"
+
+#: modules/safe-mode/module.php:385 modules/safe-mode/module.php:397
+msgid "Can't Edit?"
+msgstr "Nelze upravit?"
+
+#: modules/safe-mode/module.php:302
+msgid "Still experiencing issues?"
+msgstr "Stále dochází k potížím?"
+
+#: modules/safe-mode/module.php:286
+msgid "Editor successfully loaded?"
+msgstr "Byl editor úspěšně načten?"
+
+#: modules/safe-mode/module.php:279 modules/safe-mode/module.php:509
+msgid "Disable Safe Mode"
+msgstr "Vypněte nouzový režim"
+
+#: modules/safe-mode/module.php:277
+msgid "Safe Mode ON"
+msgstr "Nouzový režim ZAP"
+
+#: modules/safe-mode/module.php:95
+msgid "Cannot enable Safe Mode"
+msgstr "Nelze povolit nouzový režim"
+
+#: modules/safe-mode/module.php:42
+msgid "Safe Mode"
+msgstr "Nouzový režim"
+
+#: core/upgrade/manager.php:40
+msgid "Elementor Data Updater"
+msgstr "Elementor Aktualizace Dat"
+
+#: core/common/modules/finder/categories/general.php:45
+msgctxt "Template Library"
+msgid "Saved Templates"
+msgstr "Uložené šablony"
+
+#. translators: %d: interval
+#: core/base/background-task.php:311
+msgid "Every %d minutes"
+msgstr "Každé %d minuty"
+
+#: core/base/background-process/wp-background-process.php:437
+msgid "Every %d Minutes"
+msgstr "Každé %d minuty"
+
+#: includes/widgets/video.php:190
+msgid "External URL"
+msgstr "Externí adresa URL"
+
+#: core/app/app.php:39 core/app/app.php:40
+#: core/app/modules/site-editor/module.php:31
+#: core/common/modules/finder/categories/general.php:68
+#: includes/template-library/sources/local.php:1635
+#: assets/js/app-packages.js:10981 assets/js/editor.js:31614
+msgid "Theme Builder"
+msgstr "Tvůrce šablon"
+
+#: includes/controls/groups/background.php:282
+#: includes/controls/groups/background.php:487
+msgctxt "Background Control"
+msgid "Custom"
+msgstr "Vlastní"
+
+#: core/base/db-upgrades-manager.php:89
+msgid "Your site database needs to be updated to the latest version."
+msgstr "Databáze vašich stránek musí být aktualizována na nejnovější verzi."
+
+#: core/base/db-upgrades-manager.php:126
+msgid "The database update process is now complete. Thank you for updating to the latest version!"
+msgstr "Proces aktualizace databáze je nyní dokončen. Děkujeme za aktualizaci na nejnovější verzi!"
+
+#: includes/widgets/read-more.php:113
+msgid "Read More Text"
+msgstr "Text \"Číst dále\""
+
+#: modules/library/documents/not-supported.php:60
+msgid "Not Supported"
+msgstr "Nepodporováno"
+
+#: core/common/modules/finder/categories/site.php:72
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: core/common/modules/finder/categories/site.php:78
+msgid "Users"
+msgstr "Uživatelé"
+
+#: includes/widgets/video.php:440
+msgid "Any Video"
+msgstr "Video"
+
+#: includes/widgets/video.php:439
+msgid "Current Video Channel"
+msgstr "Aktuální Video Kanál"
+
+#: includes/widgets/star-rating.php:95
+msgid "Rating Scale"
+msgstr "Stupnice hodnocení"
+
+#: core/common/modules/connect/apps/base-app.php:225
+msgid "Disconnected Successfully."
+msgstr "Úspěšně odpojeno"
+
+#: core/common/modules/connect/apps/base-app.php:213
+msgid "Connected Successfully."
+msgstr "Úspěšně připojeno"
+
+#: core/common/modules/connect/admin.php:24
+#: core/common/modules/connect/admin.php:25
+#: core/common/modules/connect/apps/connect.php:11
+msgid "Connect"
+msgstr "Připojit"
+
+#: core/common/modules/connect/apps/base-app.php:80
+msgid "Disconnect"
+msgstr "Odpojit"
+
+#: includes/widgets/image.php:164 includes/widgets/image.php:173
+msgid "Custom Caption"
+msgstr "Vlastní popisek"
+
+#: includes/widgets/image.php:163
+msgid "Attachment Caption"
+msgstr "Přiložený popisek"
+
+#: core/base/document.php:1542
+msgid "Future"
+msgstr "Budoucnost"
+
+#: core/common/modules/finder/categories/site.php:42
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+#: core/common/modules/finder/categories/create.php:28
+#: assets/js/editor.js:29892
+msgid "Create"
+msgstr "Vytvořit"
+
+#: includes/widgets/star-rating.php:321
+msgid "Unmarked Color"
+msgstr "Neoznačená barva"
+
+#: includes/widgets/star-rating.php:266
+msgid "Stars"
+msgstr "Hvězdy"
+
+#: includes/widgets/star-rating.php:147
+msgid "Outline"
+msgstr "Obrys"
+
+#: includes/widgets/star-rating.php:139
+msgid "Unmarked Style"
+msgstr "Neoznačený styl"
+
+#: includes/widgets/star-rating.php:88 includes/widgets/star-rating.php:108
+msgid "Rating"
+msgstr "Hodnocení"
+
+#: includes/widgets/star-rating.php:45
+msgid "Star Rating"
+msgstr "Hodnocení hvězdičkami"
+
+#: includes/editor-templates/hotkeys.php:151
+msgid "Quit"
+msgstr "Přestat"
+
+#: includes/editor-templates/hotkeys.php:143 assets/js/editor.js:3174
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové zkratky"
+
+#: includes/editor-templates/hotkeys.php:100
+msgid "Show / Hide Panel"
+msgstr "Zobrazit / Skrýt panel"
+
+#: includes/editor-templates/hotkeys.php:88
+msgid "Go To"
+msgstr "Jít do"
+
+#: includes/editor-templates/hotkeys.php:26
+msgid "Redo"
+msgstr "Předělat"
+
+#: includes/editor-templates/hotkeys.php:18
+msgid "Undo"
+msgstr "Vrátit"
+
+#: core/common/modules/finder/categories/site.php:54
+msgid "Menus"
+msgstr "Menu"
+
+#: core/common/modules/finder/categories/site.php:48
+#: assets/js/admin-top-bar.js:706
+msgid "Dashboard"
+msgstr "Nástěnka"
+
+#: includes/widgets/video.php:519
+msgid "Poster"
+msgstr "Plakát"
+
+#: includes/widgets/video.php:135 includes/widgets/video.php:157
+#: includes/widgets/video.php:178 includes/widgets/video.php:234
+msgid "Enter your URL"
+msgstr "Vložte URL"
+
+#: core/admin/admin-notices.php:284
+msgid "Hide Notification"
+msgstr "Skrýt oznámení"
+
+#: core/admin/admin-notices.php:273
+msgid "Congrats!"
+msgstr "Gratulujeme!"
+
+#: includes/settings/settings.php:265
+msgid "Welcome to Elementor"
+msgstr "Vítejte v Elementoru"
+
+#: includes/editor-templates/navigator.php:46
+msgid "Empty"
+msgstr "Prázdný"
+
+#: includes/editor-templates/library-layout.php:13
+#: includes/settings/settings.php:259 includes/settings/settings.php:260
+msgid "Skip"
+msgstr "Přeskočit"
+
+#: includes/controls/groups/css-filter.php:132
+msgctxt "Filter Control"
+msgid "Hue"
+msgstr "Odstín"
+
+#: includes/settings/settings.php:188 includes/settings/settings.php:256
+msgid "Getting Started"
+msgstr "Začínáme"
+
+#: includes/settings/settings.php:243
+msgid "Create Your First Post"
+msgstr "Vytvořte první příspěvek"
+
+#: includes/settings/settings.php:240
+msgid "Create Your First Page"
+msgstr "Vytvořte první stránku"
+
+#: includes/widgets/accordion.php:126 includes/widgets/accordion.php:130
+#: includes/widgets/icon-box.php:160 includes/widgets/image-box.php:137
+#: includes/widgets/tabs.php:129 includes/widgets/tabs.php:133
+#: includes/widgets/testimonial.php:101 includes/widgets/text-editor.php:114
+#: includes/widgets/toggle.php:130 includes/widgets/toggle.php:134
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: core/debug/inspector.php:49
+msgid "Debug Bar"
+msgstr "Debug Bar"
+
+#: includes/editor-templates/hotkeys.php:126
+#: includes/editor-templates/navigator.php:12
+#: includes/editor-templates/panel.php:69
+#: includes/editor-templates/panel.php:71 assets/js/editor-document.js:13174
+#: assets/js/editor.js:15092
+msgid "Navigator"
+msgstr "Navigátor"
+
+#: includes/controls/url.php:68 modules/shapes/widgets/text-path.php:147
+msgid "Paste URL or type"
+msgstr "Vložte adresu URL nebo zadejte"
+
+#: includes/editor-templates/navigator.php:52
+msgid "Once you fill your page with content, this window will give you an overview display of all the page elements. This way, you can easily move around any section, column, or widget."
+msgstr "Jakmile zaplníte vaši stránku obsahem, toto okno vám dá náhled na všechny části stránky. Takto můžete jednoduše posunout jakoukoliv sekcí, sloupcem nebo widgetem."
+
+#: core/admin/admin-notices.php:278
+msgid "Happy To Help"
+msgstr "Rád pomoci"
+
+#: includes/editor-templates/navigator.php:51
+msgid "Easy Navigation is Here!"
+msgstr "Snadná navigace je tady!"
+
+#: core/settings/editor-preferences/model.php:90
+msgid "Editing Handles"
+msgstr "Úpravy úchytek"
+
+#: includes/widgets/video.php:402
+msgid "Lazy Load"
+msgstr "Pomalé načítání"
+
+#: core/settings/editor-preferences/model.php:92
+msgid "Show editing handles when hovering over the element edit button."
+msgstr "Zobrazte úchyty pro úpravy při přechodu nad tlačítkem úprav tlačítka"
+
+#: core/admin/admin-notices.php:274
+msgid ""
+"You created over 10 pages with Elementor. Great job! If you can spare a minute,\n"
+"\t\t\t\tplease help us by leaving a five star review on WordPress.org."
+msgstr ""
+"Vytvořil jste více než 10 stránek s Elementorem. Výborná práce! Pokud máte minutu,\n"
+"pomozte nám a zanechte vaše pěti hvězdičkové hodnocení na WordPress.org."
+
+#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1249
+#: includes/widgets/google-maps.php:147
+msgid "Zoom"
+msgstr "Přiblížení"
+
+#: core/debug/inspector.php:57
+msgid "Debug Bar adds an admin bar menu that lists all the templates that are used on a page that is being displayed."
+msgstr "Debug Bar přidává nabídku admin lišty, která obsahuje všechny šablony, které se používají na stránce, která se právě zobrazuje."
+
+#: core/document-types/page-base.php:41
+msgid "Single"
+msgstr "Jednoduchý"
+
+#: includes/widgets/video.php:374
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/widgets/video.php:347
+msgid "Video Info"
+msgstr "Video informace"
+
+#: includes/widgets/video.php:361
+msgid "Modest Branding"
+msgstr "Malé značky"
+
+#: includes/controls/groups/css-filter.php:98
+msgctxt "Filter Control"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: includes/controls/groups/css-filter.php:81
+msgctxt "Filter Control"
+msgid "Brightness"
+msgstr "Jas"
+
+#: includes/controls/groups/css-filter.php:115
+msgctxt "Filter Control"
+msgid "Saturation"
+msgstr "Sytost"
+
+#: includes/controls/groups/css-filter.php:62
+msgctxt "Filter Control"
+msgid "Blur"
+msgstr "Rozmazání"
+
+#: core/admin/feedback.php:112
+msgid "I have Elementor Pro"
+msgstr "Mám Elementor Pro"
+
+#: includes/widgets/video.php:220
+msgid "URL"
+msgstr "URL"
+
+#: includes/controls/groups/background.php:589 includes/widgets/video.php:257
+msgid "Specify an end time (in seconds)"
+msgstr "Určete čas ukončení (v sekundách)"
+
+#: includes/controls/groups/background.php:587 includes/widgets/video.php:255
+msgid "End Time"
+msgstr "Čas ukončení"
+
+#: includes/controls/groups/background.php:577 includes/widgets/video.php:247
+msgid "Specify a start time (in seconds)"
+msgstr "Určete čas zahájení (v sekundách)"
+
+#: includes/controls/groups/background.php:575 includes/widgets/video.php:245
+msgid "Start Time"
+msgstr "Čas zahájení"
+
+#: includes/editor-templates/hotkeys.php:35 assets/js/editor-document.js:12508
+#: assets/js/editor.js:14426
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: includes/controls/groups/css-filter.php:166
+msgctxt "Filter Control"
+msgid "CSS Filters"
+msgstr "CSS filtry"
+
+#: includes/widgets/video.php:110
+msgid "Source"
+msgstr "Zdroj"
+
+#: includes/widgets/button.php:256
+msgid "Button ID"
+msgstr "ID tlačítka"
+
+#: includes/managers/elements.php:287
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/managers/elements.php:276
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/editor-templates/global.php:27
+msgid "Drag widget here"
+msgstr "Přetáhněte widget sem"
+
+#: includes/elements/column.php:406 includes/elements/section.php:697
+#: includes/widgets/heading.php:258
+msgid "Blend Mode"
+msgstr "Režim prolnutí"
+
+#: core/app/modules/site-editor/module.php:32
+#: core/common/modules/finder/categories/site.php:26 core/kits/manager.php:367
+#: includes/managers/elements.php:283
+msgid "Site"
+msgstr "Stránka"
+
+#: core/debug/inspector.php:115
+msgid "Elementor Debugger"
+msgstr "Elementor Debugger"
+
+#: core/admin/feedback.php:114
+msgid "Wait! Don't deactivate Elementor. You have to activate both Elementor and Elementor Pro in order for the plugin to work."
+msgstr "Počkejte! Elementor neaktivujte. Musíte aktivovat Elementor a Elementor Pro, aby plugin fungoval."
+
+#: includes/widgets/audio.php:185
+msgid "Artwork"
+msgstr "Umělecké dílo"
+
+#: includes/widgets/video.php:117
+msgid "Self Hosted"
+msgstr "Vlastní hostování"
+
+#: includes/widgets/video.php:116
+msgid "Dailymotion"
+msgstr "Denní návrhy"
+
+#. translators: %1$s Code open tag, %2$s: Code close tag.
+#: includes/widgets/button.php:265
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows %1$sA-z 0-9%2$s & underscore chars without spaces."
+msgstr "Ujistěte se, že je toto ID jedinečné a není použito jinde na stránce, kde je tento formulář zobrazen. Toto pole umožňuje znaky %1$sA-z 0-9%2$s a podtržítka bez mezer."
+
+#: core/admin/admin.php:151 assets/js/admin.js:5182 assets/js/gutenberg.js:796
+msgid "Back to WordPress Editor"
+msgstr "Zpět do editoru WordPress"
+
+#. translators: %s: Document title
+#: core/documents-manager.php:367
+msgid "Elementor %s"
+msgstr "Elementor %s"
+
+#. translators: %s the title of the post type
+#. translators: %s: Template type label.
+#: core/common/modules/finder/categories/create.php:62
+#: includes/template-library/sources/local.php:1313
+msgid "Add New %s"
+msgstr "Přidat nový %s"
+
+#. translators: %d: Number of rows
+#: includes/utils.php:212
+msgid "%d row affected."
+msgid_plural "%d rows affected."
+msgstr[0] "%d řádek ovlivněn."
+msgstr[1] "%d řádků ovlivněno."
+msgstr[2] "%d řádků ovlivněno."
+
+#: modules/page-templates/module.php:158
+msgctxt "Page Template"
+msgid "Elementor Full Width"
+msgstr "Elementor celá šířka"
+
+#: modules/page-templates/module.php:157
+msgctxt "Page Template"
+msgid "Elementor Canvas"
+msgstr "Elementor plátno"
+
+#: core/kits/documents/tabs/theme-style-images.php:95
+#: core/kits/documents/tabs/theme-style-images.php:166
+#: includes/elements/column.php:375 includes/elements/column.php:446
+#: includes/elements/section.php:651 includes/elements/section.php:752
+#: includes/widgets/image-box.php:312 includes/widgets/image-box.php:366
+#: includes/widgets/image.php:393 includes/widgets/image.php:427
+msgid "Opacity"
+msgstr "Neprůhlednost"
+
+#: core/app/modules/kit-library/data/kits/controller.php:24
+#: core/app/modules/kit-library/data/kits/controller.php:43
+#: core/app/modules/kit-library/data/kits/endpoints/download-link.php:45
+#: core/app/modules/kit-library/data/kits/endpoints/favorites.php:66
+#: core/app/modules/kit-library/data/kits/endpoints/favorites.php:88
+#: core/app/modules/kit-library/data/taxonomies/controller.php:39
+#: core/base/module.php:130 core/base/module.php:143 includes/plugin.php:615
+#: includes/plugin.php:628
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:885
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:3498
+msgid "Something went wrong."
+msgstr "Něco se nepodařilo."
+
+#: includes/widgets/image.php:290
+msgid "Max Width"
+msgstr "Maximální šířka"
+
+#: includes/widgets/common.php:553 includes/widgets/common.php:783
+#: includes/widgets/divider.php:736 includes/widgets/divider.php:876
+#: includes/widgets/image-carousel.php:397
+#: includes/widgets/image-carousel.php:460 includes/widgets/tabs.php:152
+msgid "Position"
+msgstr "Pozice"
+
+#. translators: 1: Elementor, 2: Link to plugin review
+#: core/admin/admin.php:335
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Užil sis%1$s? Prosím, udělte nám %2$s hodnocení. Vážíme si Vaši podpory!"
+
+#: core/common/modules/finder/categories/general.php:63
+msgid "Knowledge Base"
+msgstr "Znalostní báze"
+
+#: modules/page-templates/module.php:323
+msgid "No header, no footer, just Elementor"
+msgstr "Bez záhlaví, bez zápatí, prostě jenom Elementor"
+
+#: modules/page-templates/module.php:311
+msgid "Default Page Template from your theme"
+msgstr "Výchozí šablona stránky z tvé šablony"
+
+#: modules/page-templates/module.php:292
+msgid "Page Layout"
+msgstr "Rozložení stránky"
+
+#: modules/history/views/revisions-panel-template.php:70
+msgid "Current"
+msgstr "Aktuální"
+
+#: modules/page-templates/module.php:335
+msgid "This template includes the header, full-width content and footer"
+msgstr "Tato šablona obsahuje hlavičku, obsah a zápatí v plné šíři"
+
+#: includes/admin-templates/new-template.php:97
+msgid "Create Template"
+msgstr "Vytvořit šablonu"
+
+#: includes/template-library/sources/local.php:219
+msgctxt "Template Library"
+msgid "My Templates"
+msgstr "Moje šablony"
+
+#: includes/widgets/counter.php:181
+msgid "Separator"
+msgstr "Oddělovač"
+
+#. translators: %s: Template type label.
+#: includes/template-library/sources/local.php:1306
+msgid "Create Your First %s"
+msgstr "Vytvořte své první %s"
+
+#: includes/template-library/sources/local.php:1179
+msgid "All"
+msgstr "Vše"
+
+#: includes/frontend.php:1251 includes/widgets/video.php:943
+msgid "Play Video"
+msgstr "Přehrát video"
+
+#: includes/widgets/common.php:688 includes/widgets/icon-list.php:104
+#: includes/widgets/icon-list.php:196
+msgid "Inline"
+msgstr "Inline"
+
+#: includes/admin-templates/new-template.php:94
+msgid "Enter template name (optional)"
+msgstr "Zadejte název šablony (volitelné)"
+
+#: includes/admin-templates/new-template.php:91
+msgid "Name your template"
+msgstr "Název šablony"
+
+#: includes/admin-templates/new-template.php:66
+msgid "Select the type of template you want to work on"
+msgstr "Vyberte typ šablony, na které chcete pracovat"
+
+#: includes/admin-templates/new-template.php:64
+msgid "Choose Template Type"
+msgstr "Zvolte typ šablony"
+
+#: includes/admin-templates/new-template.php:49
+msgid "Use templates to create the different pieces of your site, and reuse them with one click whenever needed."
+msgstr "Použijte šablony k vytvoření různých částí vašeho webu a opakujte jejich použití jedním kliknutím, kdykoli je to potřeba."
+
+#: includes/settings/settings.php:302
+msgid "Custom Fonts allows you to add your self-hosted fonts and use them on your Elementor projects to create a unique brand language."
+msgstr "Volitelné písma vám umožní přidat vlastní písma a použít je ve svých Elementor projektech k vytvoření jedinečného jazyka značky."
+
+#: includes/settings/settings.php:301
+msgid "Add Your Custom Fonts"
+msgstr "Přidejte vlastní písma"
+
+#: includes/settings/settings.php:146 includes/settings/settings.php:147
+msgid "Custom Fonts"
+msgstr "Vlastní písma"
+
+#: includes/editor-templates/templates.php:100
+msgid "Search Templates:"
+msgstr "Vyhledávání šablon:"
+
+#: core/document-types/page.php:41 modules/library/documents/page.php:60
+#: assets/js/editor.js:5615
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:1803
+msgid "Pages"
+msgstr "Stránky"
+
+#: includes/editor-templates/global.php:48
+msgid "This tag has no settings."
+msgstr "Tato značka nemá žádné nastavení."
+
+#: core/common/modules/ajax/module.php:161
+msgid "Action not found."
+msgstr "Akce nebyla nalezena."
+
+#: includes/template-library/manager.php:529
+msgid "Post not found."
+msgstr "Příspěvek nebyl nalezen."
+
+#: core/common/modules/ajax/module.php:130
+msgid "Token Expired."
+msgstr "Token vypršel."
+
+#: includes/template-library/sources/local.php:1273
+msgid "Add templates and reuse them across your website. Easily export and import them to any other project, for an optimized workflow."
+msgstr "Přidat šablony a znovu je použít na svých webových stránkách. Snadno je můžete exportovat a importovat do jakéhokoli jiného projektu a optimalizovat pracovní postup."
+
+#: includes/controls/groups/border.php:68
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "Drážka"
+
+#. translators: %s: Document title
+#. translators: %s: Document title
+#: core/base/document.php:1006 core/settings/page/model.php:126
+#: includes/editor-templates/panel.php:67
+msgid "%s Settings"
+msgstr "%s nastavení"
+
+#: core/role-manager/role-manager.php:169
+msgid "Want to give access only to content?"
+msgstr "Chcete poskytnout přístup pouze k obsahu?"
+
+#: core/role-manager/role-manager.php:134
+msgid "No access to editor"
+msgstr "Žádný přístup k editoru"
+
+#: core/role-manager/role-manager.php:127
+msgid "Role Excluded"
+msgstr "Role není vyloučena"
+
+#: core/role-manager/role-manager.php:91
+msgid "Manage What Your Users Can Edit In Elementor"
+msgstr "Spravujte, co mohou uživatelé v Elementoru upravovat"
+
+#: core/common/modules/finder/categories/general.php:57
+#: core/role-manager/role-manager.php:31
+msgid "Role Manager"
+msgstr "Správce rolí"
+
+#: includes/editor-templates/templates.php:180
+msgid "More actions"
+msgstr "Více akcí"
+
+#: core/dynamic-tags/tag.php:109 includes/settings/settings.php:580
+msgid "Fallback"
+msgstr "Ustoupit"
+
+#: core/document-types/page-base.php:175
+msgid "Featured Image"
+msgstr "Doporučený obrázek"
+
+#: core/document-types/page-base.php:109
+msgid "Body Style"
+msgstr "Styl těla"
+
+#: core/base/document.php:163
+msgid "Document"
+msgstr "Dokument"
+
+#: includes/widgets/image-carousel.php:133
+msgid "Set how many slides are scrolled per swipe."
+msgstr "Nastavte o kolik snímků se posune za jeden prvek."
+
+#: includes/controls/groups/background.php:447
+msgid "Note: Attachment Fixed works only on desktop."
+msgstr "Poznámka: Příloha Fixed funguje pouze na ploše."
+
+#: core/admin/admin.php:386
+msgid "Create New Post"
+msgstr "Vytvořit nový příspěvek"
+
+#: includes/fonts.php:69
+msgid "Google Early Access"
+msgstr "Rychlý přístup Google"
+
+#: includes/editor-templates/templates.php:158
+msgid "Favorite"
+msgstr "Oblíbené"
+
+#: includes/widgets/shortcode.php:106
+msgid "Enter your shortcode"
+msgstr "Zadejte short kód"
+
+#: includes/widgets/image.php:176
+msgid "Enter your image caption"
+msgstr "Zadejte název obrázku"
+
+#: includes/widgets/html.php:95
+msgid "Enter your code"
+msgstr "Vložte kód"
+
+#: includes/widgets/alert.php:330 includes/widgets/alert.php:362
+msgid "Dismiss alert"
+msgstr "Zrušit upozornění"
+
+#: includes/widgets/alert.php:127 includes/widgets/icon-box.php:161
+#: includes/widgets/image-box.php:138
+msgid "Enter your description"
+msgstr "Zadejte popis"
+
+#: includes/widgets/alert.php:114
+msgid "This is an Alert"
+msgstr "Toto je upozornění"
+
+#: includes/controls/popover-toggle.php:71
+#: includes/controls/popover-toggle.php:73
+msgid "Back to default"
+msgstr "Zpět na výchozí"
+
+#: includes/widgets/accordion.php:177 includes/widgets/toggle.php:181
+msgid "Active Icon"
+msgstr "Aktivní ikona"
+
+#. translators: 1: Editing date, 2: Author display name
+#: core/base/document.php:1255
+msgid "Last edited on %1$s by %2$s"
+msgstr "Poslední úprava v %1$s provedl %2$s"
+
+#. translators: 1: Saving date, 2: Author display name
+#: core/base/document.php:1252
+msgid "Draft saved on %1$s by %2$s"
+msgstr "Koncept uložen v %1$s provedl %2$s"
+
+#: includes/editor-templates/panel.php:115
+msgid "Save Draft"
+msgstr "Uložit koncept"
+
+#: core/admin/admin-notices.php:141
+msgid "Update Elementor Now"
+msgstr "Aktualizujte Elementor teď"
+
+#: modules/history/revisions-manager.php:157
+msgid "Current Version"
+msgstr "Současná verze"
+
+#: includes/widgets/video.php:389
+msgid "Privacy Mode"
+msgstr "Anonymní režim"
+
+#: includes/widgets/heading.php:117
+msgid "Add Your Heading Text Here"
+msgstr "Zde Vložte Text Nadpisu"
+
+#: core/admin/admin-notices.php:529 assets/js/app-packages.js:8875
+#: assets/js/app.js:8187
+msgid "Dismiss"
+msgstr "Zahodit"
+
+#: core/kits/documents/kit.php:169
+msgid "Published"
+msgstr "Publikováno"
+
+#: includes/editor-templates/templates.php:234
+#: includes/editor-templates/templates.php:250
+#: includes/editor-templates/templates.php:263 includes/widgets/button.php:141
+#: includes/widgets/button.php:142
+msgid "Click here"
+msgstr "Klikněte zde"
+
+#: includes/editor-templates/templates.php:233
+#: includes/editor-templates/templates.php:249
+#: includes/editor-templates/templates.php:262
+msgid "Want to learn more about the Elementor library?"
+msgstr "Chcete se dozvědět více o knihovně Elementoru? "
+
+#: includes/editor-templates/templates.php:121
+msgid "Creation Date"
+msgstr "Přidáno dne"
+
+#: includes/editor-templates/templates.php:117
+msgid "Created By"
+msgstr "Přidal/a"
+
+#: includes/editor-templates/templates.php:101
+msgid "Search"
+msgstr "Hledat"
+
+#: includes/editor-templates/templates.php:92
+msgid "My Favorites"
+msgstr "Mé oblíbené"
+
+#: includes/editor-templates/templates.php:70
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:3481
+msgid "Popular"
+msgstr "Oblíbené"
+
+#: includes/editor-templates/templates.php:68
+msgid "Trend"
+msgstr "Trend"
+
+#: includes/editor-templates/templates.php:66
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:3478
+msgid "New"
+msgstr "Nový"
+
+#: includes/editor-templates/templates.php:10
+#: includes/editor-templates/templates.php:11
+msgid "Import Template"
+msgstr "Importovat šablonu"
+
+#: core/kits/views/panel.php:38 includes/controls/icons.php:82
+#: includes/controls/media.php:196 includes/controls/media.php:242
+#: includes/editor-templates/repeater.php:27
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:710
+msgid "Remove"
+msgstr "Odstranit"
+
+#: includes/editor-templates/hotkeys.php:67
+#: includes/editor-templates/repeater.php:21 assets/js/editor-document.js:12496
+#: assets/js/editor.js:14414 assets/js/editor.js:34088
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#: includes/editor-templates/repeater.php:14
+msgid "Drag & Drop"
+msgstr "Drag & Drop"
+
+#: includes/editor-templates/panel.php:129
+#: includes/editor-templates/panel.php:130
+msgid "Hide Panel"
+msgstr "Skrýt panel"
+
+#: includes/editor-templates/panel.php:119 assets/js/editor-document.js:13838
+#: assets/js/editor.js:16371
+msgid "Save as Template"
+msgstr "Uložit jako šablonu"
+
+#: core/admin/admin.php:383
+msgid "Create New Page"
+msgstr "Přidat novou stránku"
+
+#: core/admin/admin.php:355
+msgid "Elementor Overview"
+msgstr "Přehled Elementoru"
+
+#. translators: %s: the document title.
+#: core/base/document.php:146
+msgid "Hurray! Your %s is live."
+msgstr "Hurá! Váš %s je funkční."
+
+#: core/common/modules/finder/template.php:19 assets/js/editor.js:6708
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:1500
+msgid "No Results Found"
+msgstr "Nebyly nalezeny žádné výsledky."
+
+#: includes/editor-templates/templates.php:246 assets/js/app-packages.js:3786
+#: assets/js/app.js:3744
+msgid "Select File"
+msgstr "Vybrat soubor"
+
+#: core/admin/admin.php:470
+msgid "Blog"
+msgstr "Blog"
+
+#: core/admin/admin.php:432
+msgid "News & Updates"
+msgstr "Novinky a aktualizace"
+
+#: includes/editor-templates/templates.php:245
+msgid "or"
+msgstr "nebo"
+
+#: includes/editor-templates/panel.php:95 assets/js/editor.js:12250
+msgid "Publish"
+msgstr "Publikovat"
+
+#: includes/widgets/video.php:391
+msgid "When you turn on privacy mode, YouTube won't store information about visitors on your website unless they play the video."
+msgstr "Když zapnete mód soukromí, YouTube nebude ukládat informace o vašich návštěvnících na Vaši stránce, dokud video nezapnou."
+
+#: includes/editor-templates/templates.php:244
+msgid "Drag & drop your .JSON or .zip template file"
+msgstr "Vezměte & pusťte Váš .JSON nebo .zip soubor se šablonou."
+
+#: includes/editor-templates/templates.php:243
+msgid "Import Template to Your Library"
+msgstr "Importujte šablonu do Vaši knihovny"
+
+#: core/admin/admin.php:414
+msgid "Recently Edited"
+msgstr "Nedávno upraveno"
+
+#: core/document-types/page-base.php:164
+msgid "Excerpt"
+msgstr "Výpis"
+
+#: includes/editor-templates/panel.php:100
+#: includes/editor-templates/panel.php:102
+msgid "Save Options"
+msgstr "Uložit možnosti"
+
+#: includes/editor-templates/panel.php:83
+#: includes/editor-templates/panel.php:86
+msgid "Preview Changes"
+msgstr "Zobrazit změny"
+
+#: includes/editor-templates/panel-elements.php:33
+msgid "Search Widget:"
+msgstr "Hledat widget"
+
+#: includes/controls/groups/typography.php:178
+msgctxt "Typography Control"
+msgid "Overline"
+msgstr "nadtržené"
+
+#: includes/controls/groups/typography.php:172
+msgctxt "Typography Control"
+msgid "Decoration"
+msgstr "Dekorace"
+
+#: includes/controls/groups/typography.php:177
+msgctxt "Typography Control"
+msgid "Underline"
+msgstr "Podtržené"
+
+#: includes/controls/groups/typography.php:179
+msgctxt "Typography Control"
+msgid "Line Through"
+msgstr "Čára skrz"
+
+#: includes/controls/dimensions.php:142
+msgid "Unlinked values"
+msgstr "Hodnoty bez odkazu"
+
+#: core/admin/admin.php:451
+msgid "(opens in a new window)"
+msgstr "(otevře se v novém okně)"
+
+#: core/base/document.php:1247
+msgctxt "revision date format"
+msgid "M j, H:i"
+msgstr "M j, H:i"
+
+#: core/admin/admin.php:421
+msgctxt "Dashboard Overview Widget Recently Date"
+msgid "M jS"
+msgstr "M jS"
+
+#: includes/template-library/sources/local.php:464
+#: includes/template-library/sources/local.php:543
+#: includes/template-library/sources/local.php:685
+#: modules/history/revisions-manager.php:264
+msgid "Access denied."
+msgstr "Přístup byl odepřen."
+
+#: includes/settings/settings.php:465
+msgid "Disable Default Fonts"
+msgstr "Deaktivovat původní fonty"
+
+#: includes/elements/column.php:218 includes/widgets/accordion.php:380
+#: includes/widgets/common.php:753 includes/widgets/image-carousel.php:533
+#: includes/widgets/tabs.php:179 includes/widgets/tabs.php:209
+#: includes/widgets/toggle.php:407
+msgid "End"
+msgstr "Konec"
+
+#: includes/elements/column.php:216 includes/widgets/accordion.php:376
+#: includes/widgets/common.php:745 includes/widgets/image-carousel.php:525
+#: includes/widgets/tabs.php:171 includes/widgets/tabs.php:201
+#: includes/widgets/toggle.php:403
+msgid "Start"
+msgstr "Začátek"
+
+#: core/debug/loading-inspection-manager.php:36
+msgid "We're sorry, but something went wrong. Click on 'Learn more' and follow each of the steps to quickly solve it."
+msgstr "Omlouvám se, ale něco se pokazilo. Klikněte na \"Dozvědět se více\" a následujte zobrazené kroky vedoucí k řešení."
+
+#: core/debug/classes/inspection-base.php:25
+#: core/debug/loading-inspection-manager.php:37
+msgid "The preview could not be loaded"
+msgstr "Náhled nelze zobrazit"
+
+#: core/admin/admin-notices.php:145 core/admin/admin-notices.php:180
+msgid "Update Notification"
+msgstr "Oznámení o aktualizaci"
+
+#. Author URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Plugin URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: modules/history/views/history-panel-template.php:10
+#: modules/history/views/revisions-panel-template.php:26
+#: assets/js/editor.js:33777
+msgid "Revisions"
+msgstr "Revize"
+
+#: includes/editor-templates/hotkeys.php:117
+#: includes/editor-templates/panel.php:73
+#: includes/editor-templates/panel.php:75 assets/js/editor.js:34461
+msgid "History"
+msgstr "Historie"
+
+#: includes/editor-templates/hotkeys.php:14
+#: includes/editor-templates/templates.php:124
+#: modules/history/views/history-panel-template.php:9 assets/js/editor.js:33774
+msgid "Actions"
+msgstr "Akce"
+
+#: core/kits/documents/tabs/settings-lightbox.php:141
+#: includes/widgets/video.php:750
+msgid "UI Color"
+msgstr "Barva UI"
+
+#: core/kits/documents/tabs/settings-lightbox.php:152
+#: includes/widgets/video.php:761
+msgid "UI Hover Color"
+msgstr "Barva UI při přejetí myší"
+
+#: modules/history/views/history-panel-template.php:25
+msgid "Once you start working, you'll be able to redo / undo any action you make in the editor."
+msgstr "Když začnete pracovat, budete schopni se vrátit dopředu nebo dozadu podle toho, jaké změny provedete."
+
+#: modules/history/views/history-panel-template.php:24
+msgid "No History Yet"
+msgstr "Zatím bez historie"
+
+#: modules/history/views/history-panel-template.php:17
+msgid "Switch to Revisions tab for older versions"
+msgstr "Přejděte na revizi pro starší verze"
+
+#: core/kits/documents/tabs/settings-lightbox.php:45
+msgid "Image Lightbox"
+msgstr "Lightbox obrázku"
+
+#: includes/widgets/video.php:311
+msgid "Mute"
+msgstr "Ztlumit"
+
+#: core/kits/documents/tabs/settings-lightbox.php:48
+msgid "Open all image links in a lightbox popup window. The lightbox will automatically work on any link that leads to an image file."
+msgstr "Otevřete všechny odkazy na obrázky v zobrazeném okně lightbox. Lightbox bude automaticky pracovat na jakýkoliv odkaz, který vede k souboru obrázku."
+
+#: includes/widgets/video.php:711
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr "Stín"
+
+#: includes/controls/groups/text-shadow.php:61
+#: includes/controls/groups/text-shadow.php:85
+msgctxt "Text Shadow Control"
+msgid "Text Shadow"
+msgstr "Stín textu"
+
+#: includes/template-library/sources/local.php:912
+msgid "Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library."
+msgstr "Vyberte JSON šablonu Elementoru, nebo jeho .zip archiv a přidejte je do Vašich dostupných šablon v knihovně."
+
+#: includes/controls/url.php:110
+msgid "Add nofollow"
+msgstr "Přidat nofollow"
+
+#: includes/elements/column.php:850 includes/elements/section.php:1293
+#: includes/widgets/common.php:237
+msgid "Animation Delay"
+msgstr "Prodleva animace"
+
+#: includes/controls/groups/box-shadow.php:72
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "Outline"
+
+#: includes/controls/groups/box-shadow.php:69
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr "Pozice"
+
+#. translators: %s: WordPress version
+#: elementor.php:97
+msgid "Elementor requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "ELEMENTOR vyžaduje WordPress verze %s+. Protože používáte starší verzi, plugin je v současné době není aktivní."
+
+#: includes/settings/settings.php:505
+msgid "Integrations"
+msgstr "Integrace"
+
+#: includes/controls/url.php:99
+msgid "Link Options"
+msgstr "Možnosti nastavení odkazu"
+
+#: includes/controls/url.php:106
+msgid "Open in new window"
+msgstr "Otevřít v novém okně"
+
+#: includes/rollback.php:165 includes/settings/tools.php:152
+#: includes/settings/tools.php:315 assets/js/admin.js:5354
+msgid "Rollback to Previous Version"
+msgstr "Vrácení zpět k předchozí verzi"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:139
+#: core/kits/documents/tabs/theme-style-images.php:203
+#: includes/controls/groups/background.php:700 includes/elements/column.php:321
+#: includes/elements/column.php:477 includes/elements/column.php:584
+#: includes/elements/section.php:600 includes/elements/section.php:783
+#: includes/elements/section.php:889 includes/widgets/common.php:297
+#: includes/widgets/common.php:404 includes/widgets/google-maps.php:238
+#: includes/widgets/image-box.php:330 includes/widgets/image.php:453
+#: modules/shapes/widgets/text-path.php:445
+#: modules/shapes/widgets/text-path.php:619
+msgid "Transition Duration"
+msgstr "Trvání přechodu"
+
+#: core/common/modules/finder/categories/tools.php:58
+#: includes/settings/tools.php:312
+msgid "Version Control"
+msgstr "Verzování"
+
+#: core/kits/documents/tabs/settings-layout.php:83
+#: includes/elements/column.php:234
+msgid "Widgets Space"
+msgstr "Prostor widgetů"
+
+#: includes/elements/column.php:751 includes/elements/section.php:1214
+#: includes/widgets/common.php:158
+msgid "Z-Index"
+msgstr "Z-Index"
+
+#: includes/settings/tools.php:356
+msgid "Beta Tester"
+msgstr "Beta testování"
+
+#: includes/settings/tools.php:328
+msgid "Rollback Version"
+msgstr "Vrátit minulou verzi"
+
+#: includes/settings/tools.php:364
+msgid "Please Note: We do not recommend updating to a beta version on production sites."
+msgstr "Nezapomeňte: Nedoporučujeme upgradovat na beta verzi, jestliže je Vaše stránka produkční."
+
+#: includes/settings/tools.php:342
+msgid "Become a Beta Tester"
+msgstr "Staňte se beta testerem!"
+
+#: includes/settings/tools.php:336
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "Varování: Prosím, zálohujte si databázi před změnami."
+
+#: includes/settings/settings.php:548
+msgid "Switch Editor Loader Method"
+msgstr "Přepnout editor načítajících metod."
+
+#: core/kits/documents/tabs/settings-layout.php:95
+msgid "Sets the default space between widgets (Default: 20)"
+msgstr "Nastaví obecnou mezeru mezi widgety (ze základu 20)."
+
+#. translators: %s: Elementor version
+#: includes/settings/tools.php:319
+msgid "Experiencing an issue with Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr "Máte problém se stávající verzí Elementoru %s? Vraťte se na předchozí verzi ještě před tím, než se objeví problémy."
+
+#: includes/settings/tools.php:345
+msgid "Turn-on Beta Tester, to get notified when a new beta version of Elementor or Elementor Pro is available. The Beta version will not install automatically. You always have the option to ignore it."
+msgstr "Zapněte beta testování a budete informovaní, pokud bude k dispozici nová beta verze Elementoru Pro. Beta verze se instalují automaticky - vždy máte možnost ji ignorovat."
+
+#: includes/settings/settings.php:535
+msgid "CSS Print Method"
+msgstr "Metoda tisku CSS"
+
+#: includes/settings/settings.php:541
+msgid "External File"
+msgstr "Externí soubor"
+
+#: includes/settings/settings.php:542
+msgid "Internal Embedding"
+msgstr "Vkládání"
+
+#: includes/settings/settings.php:544
+msgid "Use internal CSS that is embedded in the head of the page. For troubleshooting server configuration conflicts and managing development environments."
+msgstr "Použijte interní CSS, které je obsaženo v hlavičce stránky kvůli odhalování chyb konfigurace na serveru a a řízení rozvojových prostředí."
+
+#: includes/settings/settings.php:544
+msgid "Use external CSS files for all generated stylesheets. Choose this setting for better performance (recommended)."
+msgstr "Použijte extermí CSS soubory pro všechny generované stylesheety. Vyberte nastavení pro lepší výkon (doporučeno)."
+
+#: core/debug/inspector.php:54 includes/settings/settings.php:553
+#: includes/settings/settings.php:565 includes/settings/tools.php:361
+#: modules/safe-mode/module.php:47
+msgid "Disable"
+msgstr "Zakázat"
+
+#: core/debug/inspector.php:55 includes/settings/settings.php:554
+#: includes/settings/settings.php:566 includes/settings/tools.php:362
+#: modules/safe-mode/module.php:48 assets/js/editor.js:22539
+msgid "Enable"
+msgstr "Povolit"
+
+#: core/base/document.php:1548
+msgid "Status"
+msgstr "Aktualita"
+
+#: includes/settings/settings.php:556
+msgid "For troubleshooting server configuration conflicts."
+msgstr "Pro řešení konfliktů konfigurace se serverem."
+
+#: includes/maintenance-mode.php:210
+msgid "Choose Mode"
+msgstr "Zvolte režim"
+
+#: includes/maintenance-mode.php:251
+msgid "Choose Template"
+msgstr "Zvolte šablonu"
+
+#: includes/maintenance-mode.php:220
+msgid "Choose between Coming Soon mode (returning HTTP 200 code) or Maintenance Mode (returning HTTP 503 code)."
+msgstr "Vyberte si mezi připravujeme (vrácení HTTP200) nebo údržby režimu (vrácení HTTP503)."
+
+#: includes/maintenance-mode.php:216
+msgid "Coming Soon"
+msgstr "Již brzy"
+
+#: includes/maintenance-mode.php:226
+msgid "Coming Soon returns HTTP 200 code, meaning the site is ready to be indexed."
+msgstr "Již brzy vrátí HTTP 200 kódu, což znamená web je připraven k indexování."
+
+#: core/kits/documents/kit.php:168 includes/maintenance-mode.php:215
+#: assets/js/editor.js:34087
+msgid "Disabled"
+msgstr "Zakázaný"
+
+#: includes/widgets/text-editor.php:120 includes/widgets/text-editor.php:252
+msgid "Drop Cap"
+msgstr "Iniciály"
+
+#: includes/maintenance-mode.php:292 includes/maintenance-mode.php:369
+#: assets/js/app-packages.js:8532 assets/js/app.js:7844
+msgid "Edit Template"
+msgstr "Upravit šablonu"
+
+#: core/kits/documents/tabs/settings-layout.php:109
+msgid "Elementor lets you hide the page title. This works for themes that have \"h1.entry-title\" selector. If your theme's selector is different, please enter it above."
+msgstr "ELEMENTOR umožňuje skrýt název stránky. Tento postup funguje pro motivy, které mají \"h1.entry titul\" voliče. Je-li vaše téma volič se liší, prosím zadejte výše."
+
+#: core/document-types/page-base.php:87
+msgid "Hide Title"
+msgstr "Skrýt nadpis"
+
+#: includes/maintenance-mode.php:237
+msgid "Logged In"
+msgstr "Jste přihlášen"
+
+#: includes/maintenance-mode.php:217
+msgid "Maintenance"
+msgstr "Režim údržby webu"
+
+#: core/common/modules/finder/categories/tools.php:64
+#: includes/maintenance-mode.php:201 includes/maintenance-mode.php:205
+msgid "Maintenance Mode"
+msgstr "Režim údržby"
+
+#: includes/maintenance-mode.php:283
+msgid "Maintenance Mode ON"
+msgstr "Mód údržby je ZAPNUT"
+
+#: includes/maintenance-mode.php:223
+msgid "Maintenance Mode returns HTTP 503 code, so search engines know to come back a short time later. It is not recommended to use this mode for more than a couple of days."
+msgstr "Režim údržby vrací kód HTTP 503, takže vyhledávače vědí, že se mají vrátit za krátkou dobu zpět. Není doporučeno používat tento režim pro více než pár dní."
+
+#: core/kits/documents/tabs/settings-layout.php:105
+msgid "Page Title Selector"
+msgstr "Selektor názvu stránky"
+
+#: includes/maintenance-mode.php:243
+msgid "Roles"
+msgstr "Role"
+
+#: includes/admin-templates/new-template.php:69
+#: includes/settings/controls.php:155
+msgid "Select"
+msgstr "Vybrat"
+
+#: includes/widgets/common.php:658 includes/widgets/spacer.php:108
+#: includes/widgets/text-editor.php:338
+msgid "Space"
+msgstr "Mezera"
+
+#: core/common/modules/finder/categories/edit.php:113
+#: assets/js/editor-document.js:1838 assets/js/editor-document.js:3648
+msgid "Template"
+msgstr "Šablona stránky"
+
+#: includes/maintenance-mode.php:370
+msgid "To enable maintenance mode you have to set a template for the maintenance mode page."
+msgstr "Chcete-li povolit režim údržby je nutné nastavit šablony pro stránky režimu údržby."
+
+#: includes/maintenance-mode.php:231
+msgid "Who Can Access"
+msgstr "Kdo má přístup"
+
+#: includes/maintenance-mode.php:206
+msgid "Set your entire website as MAINTENANCE MODE, meaning the site is offline temporarily for maintenance, or set it as COMING SOON mode, meaning the site is offline until it is ready to be launched."
+msgstr "Nastavení módu údržby dočasně zobrazí místo webu stránku s informací o údržbě, nastavení Již brzy zobrazí informaci o brzkém spuštění webu."
+
+#: includes/editor-templates/hotkeys.php:51 assets/js/editor-document.js:12529
+#: assets/js/editor.js:14447
+msgid "Paste Style"
+msgstr "Styl stránky"
+
+#: includes/elements/section.php:1064
+msgid "Bring to Front"
+msgstr "Přenést do popředí"
+
+#: includes/elements/section.php:1037
+msgid "Flip"
+msgstr "Převrátit"
+
+#: includes/elements/section.php:1051
+msgid "Invert"
+msgstr "Invertovat"
+
+#: core/kits/documents/tabs/settings-lightbox.php:18
+#: includes/widgets/image-carousel.php:203
+#: includes/widgets/image-gallery.php:142 includes/widgets/image.php:219
+#: includes/widgets/video.php:605 includes/widgets/video.php:726
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/widgets/icon-list.php:209
+msgid "List"
+msgstr "Seznam"
+
+#: includes/elements/section.php:933
+msgid "Shape Divider"
+msgstr "Tvarovaný oddělovač"
+
+#: includes/shapes.php:201
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Šipka"
+
+#: includes/shapes.php:209
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Kniha 1364"
+
+#: includes/shapes.php:144
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Tvar oblaků"
+
+#: includes/shapes.php:179
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Křivka"
+
+#: includes/shapes.php:138
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "Kapky"
+
+#: includes/shapes.php:134
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Hory"
+
+#: includes/shapes.php:153
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Pyramida"
+
+#: includes/shapes.php:205
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Rozdělit"
+
+#: includes/shapes.php:167
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Sklon"
+
+#: includes/shapes.php:158
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Triangl"
+
+#: includes/shapes.php:188
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Vlny"
+
+#: includes/shapes.php:150
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: includes/elements/column.php:191 includes/elements/column.php:219
+#: includes/elements/section.php:452 includes/widgets/icon-list.php:217
+#: includes/widgets/toggle.php:279
+msgid "Space Between"
+msgstr "Prostor mezi"
+
+#: includes/shapes.php:197
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Vlnka vzorem"
+
+#: includes/shapes.php:193
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Vlnka štětcem"
+
+#: includes/shapes.php:183
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Asymetrická křivka"
+
+#: includes/shapes.php:162
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Asymetrický trojuhelník"
+
+#: includes/shapes.php:172
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "Průhlednost náklonu"
+
+#: includes/shapes.php:176
+msgctxt "Shapes"
+msgid "Fan Opacity"
+msgstr "Průhlednost vějíře"
+
+#: includes/elements/column.php:763 includes/elements/section.php:1226
+#: includes/widgets/common.php:171
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:167
+#: core/kits/documents/tabs/theme-style-images.php:134
+#: core/kits/documents/tabs/theme-style-typography.php:156
+#: includes/elements/column.php:306 includes/elements/column.php:431
+#: includes/elements/column.php:549 includes/elements/section.php:585
+#: includes/elements/section.php:737 includes/elements/section.php:854
+#: includes/widgets/button.php:350 includes/widgets/common.php:282
+#: includes/widgets/common.php:369 includes/widgets/google-maps.php:223
+#: includes/widgets/icon-box.php:302 includes/widgets/icon-list.php:412
+#: includes/widgets/icon-list.php:505 includes/widgets/icon.php:248
+#: includes/widgets/image-box.php:351 includes/widgets/image.php:420
+#: modules/shapes/widgets/text-path.php:418
+#: modules/shapes/widgets/text-path.php:558
+msgid "Hover"
+msgstr "Hover"
+
+#: includes/widgets/tabs.php:237
+msgid "Navigation Width"
+msgstr "Šířka navigace"
+
+#: includes/elements/column.php:769 includes/elements/section.php:1232
+#: includes/widgets/button.php:262 includes/widgets/common.php:177
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Přidejte své vlastní id BEZ znaku #: Např. moje-id"
+
+#: includes/controls/groups/background.php:202
+msgctxt "Background Control"
+msgid "Angle"
+msgstr "Úhel"
+
+#: includes/controls/groups/background.php:99
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr "Sklon koleje"
+
+#: includes/controls/groups/background.php:190
+msgctxt "Background Control"
+msgid "Linear"
+msgstr "Linearita"
+
+#: includes/controls/groups/background.php:146
+#: includes/controls/groups/background.php:172
+msgctxt "Background Control"
+msgid "Location"
+msgstr "Místo konání"
+
+#: includes/controls/groups/background.php:191
+msgctxt "Background Control"
+msgid "Radial"
+msgstr "Kruhově"
+
+#: includes/controls/groups/background.php:161
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "Druhá barva"
+
+#: includes/controls/groups/background.php:187
+msgctxt "Background Control"
+msgid "Type"
+msgstr "Typ"
+
+#: core/admin/admin.php:304
+msgid "Docs & FAQs"
+msgstr "Dokumenty & časté otázky"
+
+#: core/admin/admin.php:305
+msgid "Video Tutorials"
+msgstr "Video Návody"
+
+#: core/admin/admin.php:304
+msgid "View Elementor Documentation"
+msgstr "Zobrazit dokumentaci Elementoru"
+
+#: core/admin/admin.php:305
+msgid "View Elementor Video Tutorials"
+msgstr "Zobrazit video tutoriály pro Elementor"
+
+#: includes/settings/settings.php:469
+msgid "Checking this box will disable Elementor's Default Fonts, and make Elementor inherit the fonts from your theme."
+msgstr "Zaškrtnutní boxu zakáže výchozí fonty v Elementor a na místo toho upřednostní ty z template."
+
+#: includes/settings/settings.php:461
+msgid "Checking this box will disable Elementor's Default Colors, and make Elementor inherit the colors from your theme."
+msgstr "Zaškrtnutní boxu zakáže výchozí barvy v Elementor a na místo toho upřednostní ty z template."
+
+#: modules/history/revisions-manager.php:160
+msgid "Autosave"
+msgstr "Automatické uložení"
+
+#: modules/history/views/revisions-panel-template.php:63
+msgid "By"
+msgstr "Od"
+
+#: modules/history/views/revisions-panel-template.php:47
+msgid "No Revisions Saved Yet"
+msgstr "Žádné revize na stránce nebyly nalezeny"
+
+#: core/common/modules/finder/categories/tools.php:52
+#: includes/settings/tools.php:284 includes/settings/tools.php:295
+#: includes/settings/tools.php:303
+msgid "Replace URL"
+msgstr "Nahradit URL"
+
+#: modules/history/revisions-manager.php:163
+msgid "Revision"
+msgstr "Starší verze"
+
+#: modules/history/views/revisions-panel-template.php:34
+msgid "Revision history lets you save your previous versions of your work, and restore them any time."
+msgstr "Historie revizí umožňuje uložit předchozí verze vaší práce a kdykoli je obnovit."
+
+#: includes/utils.php:184
+msgid "The `from` and `to` URL's must be different"
+msgstr "Adresy 'odkud' a 'kam' musí být od sebe odlišné"
+
+#: modules/history/revisions-manager.php:151
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr "M j @ H:i"
+
+#: includes/settings/tools.php:304
+msgid "Enter your old and new URLs for your WordPress installation, to update all Elementor data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "Vložte Vaše staré a nové URL adresy k vaši WordPress instalaci pro aktualizaci všech dat Elementoru (Relevantní k přesunu domén na HTTPS)."
+
+#: includes/settings/tools.php:300
+msgid "Update Site Address (URL)"
+msgstr "Aktualizujte adresu domény (URL)"
+
+#. translators: %s: Codex URL
+#: includes/settings/tools.php:290
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr "<strong>Důležité::</strong> Jesilně doporučeno abyste <a target=\"_blank\" href=\"%s\">zálohovali databázi</a> před náhradou URL."
+
+#. translators: 1: Minimum recommended_memory, 2: Codex URL
+#: modules/system-info/reporters/wordpress.php:89
+msgctxt "System Info"
+msgid "We recommend setting memory to at least %1$s. For more information, read about <a href=\"%2$s\">how to Increase memory allocated to PHP</a>."
+msgstr "Doporučujeme nastavení paměťi alespoň %1$s.Pro více informací čtěte více o tom, <a href=\"%2$s\">jak navýśit paměť PHP</a>."
+
+#. translators: 1: Human readable time difference, 2: Date
+#: modules/history/revisions-manager.php:179
+msgid "%1$s ago (%2$s)"
+msgstr "%1$s zpět (%2$s)"
+
+#: modules/history/views/revisions-panel-template.php:36
+msgid "It looks like the post revision feature is unavailable in your website."
+msgstr "Vypadá to, že revize příspěvku je nedostupná na Vaši stránce."
+
+#: includes/utils.php:189
+msgid "The `from` and `to` URL's must be valid URL's"
+msgstr "\"Z\" a \"DO\" musí být validní URL adresy."
+
+#: modules/history/views/revisions-panel-template.php:35
+msgid "Start designing your page and you will be able to see the entire revision history here."
+msgstr "Začněte designovat Vaši stránku a zde uvidíte revizi změn."
+
+#: includes/widgets/counter.php:170
+msgid "Thousand Separator"
+msgstr "Oddělovač tisíců"
+
+#: includes/controls/groups/background.php:272
+#: includes/controls/groups/background.php:431
+#: includes/controls/groups/background.php:462
+#: includes/controls/groups/background.php:483
+msgctxt "Background Control"
+msgid "Default"
+msgstr "Výchozí hodnota"
+
+#: core/kits/documents/tabs/settings-custom-css.php:17
+#: includes/managers/controls.php:890
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: includes/editor-templates/panel-elements.php:22
+msgid "Get more with Elementor Pro"
+msgstr "Získejte více s Elementor Pro"
+
+#: includes/editor-templates/panel-elements.php:11
+#: assets/js/editor-document.js:4949 assets/js/editor.js:19943
+msgid "Global"
+msgstr "Globální"
+
+#: core/admin/admin.php:279 core/admin/admin.php:481
+#: core/editor/notice-bar.php:29 core/role-manager/role-manager.php:170
+#: includes/editor-templates/panel-elements.php:23
+#: includes/editor-templates/panel-elements.php:57
+#: includes/managers/controls.php:976 includes/settings/settings.php:165
+#: includes/settings/settings.php:304 includes/settings/settings.php:326
+#: includes/settings/settings.php:348 includes/settings/settings.php:369
+#: assets/js/app-packages.js:3571 assets/js/app-packages.js:10613
+#: assets/js/app-packages.js:10903 assets/js/app-packages.js:10938
+#: assets/js/app.js:3529 assets/js/editor.js:4214
+msgid "Go Pro"
+msgstr "Jít na Pro verzi"
+
+#: includes/widgets/common.php:439 includes/widgets/icon-list.php:263
+#: includes/widgets/text-editor.php:122 includes/widgets/video.php:608
+#: modules/shapes/widgets/text-path.php:203
+msgid "Off"
+msgstr "Vypnuto"
+
+#: includes/widgets/common.php:438 includes/widgets/icon-list.php:264
+#: includes/widgets/text-editor.php:123 includes/widgets/video.php:609
+#: modules/shapes/widgets/text-path.php:202
+msgid "On"
+msgstr "Zapnout"
+
+#: includes/editor-templates/panel-elements.php:56
+msgid "With this feature, you can save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "Pomocí této funkce můžete uložit widget jako globální a přidejte jej do více oblastí. Všechny oblasti se budou upravovat z jednoho místa."
+
+#: includes/managers/controls.php:908
+msgid "Meet Our Custom CSS"
+msgstr "Seznamte se s Vlastním CSS"
+
+#: includes/editor-templates/panel-elements.php:55
+msgid "Meet Our Global Widget"
+msgstr "Globální Widget"
+
+#: includes/managers/controls.php:896
+msgid "Custom CSS lets you add CSS code to any widget, and see it render live right in the editor."
+msgstr "Volitelné CSS vás nechá přidat CSS kód do vašeho widgetu a změny uvidíte živě v editoru."
+
+#: includes/widgets/button.php:96
+msgid "Extra Large"
+msgstr "Extra velký"
+
+#: includes/widgets/button.php:92
+msgid "Extra Small"
+msgstr "Velmi malé"
+
+#: includes/settings/settings.php:475
+msgid "Improve Elementor"
+msgstr "Zlepšit Elementor"
+
+#: includes/frontend.php:1094
+msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
+msgstr "Neplatná Data: ID šablony nemůže být stejný jako aktuálně upravené šablony. Prosím zvolte jinou."
+
+#: includes/base/widget-base.php:280 includes/base/widget-base.php:289
+msgid "Skin"
+msgstr "Vzhled"
+
+#: includes/editor-templates/panel.php:149
+msgid "Update changes to page"
+msgstr "Aktualizovat změny na stránku"
+
+#: includes/editor-templates/panel.php:168
+msgid "%s are disabled"
+msgstr "%s jsou zakázány"
+
+#: core/admin/admin-notices.php:240
+msgid "No thanks"
+msgstr "Ne, děkuji"
+
+#: core/kits/documents/tabs/settings-layout.php:73
+msgid "Sets the default width of the content area (Default: 1140)"
+msgstr "Nastaví výchozí šířku oblasti obsahu (výchozí: 1140)"
+
+#: includes/elements/section.php:488
+msgid "Stretch Section"
+msgstr "Roztáhnout sekci"
+
+#: includes/elements/section.php:494
+msgid "Stretch the section to the full width of the page using JS."
+msgstr "Roztažení sekce na celou šířku stránky pomocí JS."
+
+#: core/kits/documents/tabs/settings-layout.php:121
+msgid "Stretched Section Fit To"
+msgstr "Natažené sekce přizpůsobit na"
+
+#: core/kits/documents/tabs/settings-layout.php:124
+msgid "Enter parent element selector to which stretched sections will fit to (e.g. #primary / .wrapper / main etc). Leave blank to fit to page width."
+msgstr "Vložte rodičovský prvek, ke kterému se bude hodit (např. #primary / .wrapper / main atd.). Nechte prázdné pro vyplnění šířky stránky."
+
+#: core/admin/admin-notices.php:229 includes/elements/section.php:494
+#: includes/settings/settings-page.php:374
+msgid "Learn more."
+msgstr "Zjistit více."
+
+#: includes/elements/section.php:1320 includes/elements/section.php:1331
+msgid "Reverse Columns"
+msgstr "Obrácené sloupce"
+
+#: core/breakpoints/manager.php:288
+#: core/settings/editor-preferences/model.php:133
+#: includes/elements/section.php:1331
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:4142
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/controls/dimensions.php:135 includes/controls/dimensions.php:138
+msgid "Link values together"
+msgstr "Spojit hodnoty k sobě"
+
+#: includes/widgets/shortcode.php:42 includes/widgets/shortcode.php:99
+msgid "Shortcode"
+msgstr "Zkrácený kód"
+
+#: includes/template-library/sources/local.php:468
+msgid "(no title)"
+msgstr "(žádný název)"
+
+#: includes/editor-templates/global.php:24
+msgid "Add Template"
+msgstr "Přidat šablonu"
+
+#: includes/utils.php:202 assets/js/editor.js:6069
+msgid "An error occurred"
+msgstr "Vyskytla se chyba"
+
+#: includes/editor-templates/global.php:18
+#: includes/editor-templates/library-layout.php:15
+#: includes/editor-templates/library-layout.php:16
+#: includes/editor-templates/responsive-bar.php:65
+#: includes/editor-templates/responsive-bar.php:66 includes/frontend.php:1254
+#: assets/js/app-packages.js:3052 assets/js/app-packages.js:5471
+#: assets/js/app-packages.js:6089 assets/js/app.js:3010 assets/js/app.js:5160
+#: assets/js/app.js:5626 assets/js/editor.js:31925
+msgid "Close"
+msgstr "Zavřít"
+
+#: includes/editor-templates/templates.php:224
+msgid "Enter Template Name"
+msgstr "Zadejte název šablony"
+
+#: includes/editor-templates/templates.php:190
+#: includes/template-library/sources/local.php:1097
+#: assets/js/app-packages.js:7422 assets/js/app-packages.js:9745
+#: assets/js/app.js:6734 assets/js/app.js:9057
+msgid "Export"
+msgstr "Export"
+
+#: includes/template-library/sources/local.php:882
+msgid "Export Template"
+msgstr "Exportovat šablonu"
+
+#: includes/template-library/sources/local.php:919
+msgid "Import Now"
+msgstr "Importovat nyní"
+
+#: includes/template-library/sources/local.php:910
+msgid "Import Templates"
+msgstr "Importovat šablony"
+
+#: includes/editor-templates/templates.php:176
+#: includes/editor-templates/templates.php:200 assets/js/editor.js:4541
+msgid "Insert"
+msgstr "Vložit"
+
+#: core/common/modules/connect/apps/library.php:14 assets/js/editor.js:6276
+msgid "Library"
+msgstr "Knihovna"
+
+#: includes/template-library/sources/local.php:201
+msgid "Local"
+msgstr "Místní"
+
+#: includes/template-library/sources/remote.php:46
+msgid "Remote"
+msgstr "Vzdálený"
+
+#: includes/editor-templates/global.php:30
+msgid "Select your Structure"
+msgstr "Vyberte strukturu"
+
+#: includes/editor-templates/templates.php:134
+msgid "Stay tuned! More awesome templates coming real soon."
+msgstr "Zůstaňte naladěni! Další úžasné šablony budou brzy."
+
+#: includes/editor-templates/templates.php:14
+#: includes/editor-templates/templates.php:15 includes/settings/tools.php:272
+#: includes/settings/tools.php:275
+msgid "Sync Library"
+msgstr "Synchronizace knihovny"
+
+#: includes/template-library/sources/local.php:222
+msgctxt "Template Library"
+msgid "Add New Template"
+msgstr "Přidat novou šablonu"
+
+#: includes/template-library/sources/local.php:225
+msgctxt "Template Library"
+msgid "All Templates"
+msgstr "Všechny šablony"
+
+#: includes/template-library/sources/local.php:223
+msgctxt "Template Library"
+msgid "Edit Template"
+msgstr "Upravit šablonu"
+
+#: includes/template-library/sources/local.php:224
+msgctxt "Template Library"
+msgid "New Template"
+msgstr "Nová šablona"
+
+#: includes/template-library/sources/local.php:228
+msgctxt "Template Library"
+msgid "No Templates found"
+msgstr "Nebyly nalezeny žádné šablony"
+
+#: includes/template-library/sources/local.php:229
+msgctxt "Template Library"
+msgid "No Templates found in Trash"
+msgstr "Vkoši nebyly nalezeny žádné šablony"
+
+#: includes/template-library/sources/local.php:227
+msgctxt "Template Library"
+msgid "Search Template"
+msgstr "Hledat šablonu"
+
+#: includes/template-library/sources/local.php:220
+msgctxt "Template Library"
+msgid "Template"
+msgstr "Šablona stránky"
+
+#: includes/template-library/sources/local.php:269
+msgctxt "Template Library"
+msgid "Type"
+msgstr "Typ"
+
+#: includes/template-library/sources/local.php:226
+msgctxt "Template Library"
+msgid "View Template"
+msgstr "Zobrazit šablonu"
+
+#: core/common/modules/finder/categories/tools.php:28
+#: core/common/modules/finder/categories/tools.php:46
+#: includes/settings/tools.php:38 includes/settings/tools.php:39
+#: includes/settings/tools.php:397
+msgid "Tools"
+msgstr "Nástroje"
+
+#: includes/editor-templates/templates.php:37
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:1131
+msgid "Back to Library"
+msgstr "Zpět na knihovnu"
+
+#: includes/editor-templates/hotkeys.php:134
+msgid "Template Library"
+msgstr "Knihovna šablon"
+
+#: includes/settings/tools.php:276
+msgid "Elementor Library automatically updates on a daily basis. You can also manually update it by clicking on the sync button."
+msgstr "Knihovna Elementoru se aktualizuje na denní bázi. Můžete tak také provést ručně kliknutím na synchronizační tlačítko."
+
+#: includes/template-library/sources/local.php:377
+#: includes/template-library/sources/local.php:1634
+#: assets/js/app-packages.js:9376 assets/js/app.js:8688
+msgid "Saved Templates"
+msgstr "Uložené šablony"
+
+#: includes/template-library/sources/local.php:221
+msgctxt "Template Library"
+msgid "Add New"
+msgstr "Vytvořit šablonu"
+
+#: core/document-types/page.php:37 modules/library/documents/page.php:56
+#: assets/js/editor.js:5904
+msgid "Page"
+msgstr "Stránka"
+
+#. translators: %s: Codex URL
+#: modules/system-info/reporters/theme.php:207
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr "Pro editaci zdrojového kódu template, doporučujeme použit tzv. <a href=\"%s\">child theme</a>."
+
+#: core/kits/documents/tabs/global-typography.php:28
+#: core/kits/documents/tabs/global-typography.php:47
+#: assets/js/app-packages.js:9394 assets/js/app.js:8706
+#: assets/js/editor.js:31652
+msgid "Global Fonts"
+msgstr "Globální písma"
+
+#: core/admin/admin-notices.php:326 core/admin/admin-notices.php:367
+#: core/admin/admin-notices.php:409 core/admin/admin-notices.php:451
+#: core/admin/admin-notices.php:493
+#: core/app/modules/import-export/module.php:227
+#: core/app/modules/import-export/module.php:239
+#: core/experiments/manager.php:222 core/experiments/manager.php:235
+#: core/experiments/manager.php:244 core/experiments/manager.php:253
+#: core/experiments/manager.php:263 core/experiments/manager.php:287
+#: includes/controls/url.php:76 includes/settings/settings.php:364
+#: includes/settings/settings.php:497 modules/safe-mode/module.php:392
+#: modules/safe-mode/module.php:401
+#: modules/safe-mode/mu-plugin/elementor-safe-mode.php:104
+#: assets/js/app-packages.js:3968 assets/js/app-packages.js:7644
+#: assets/js/app-packages.js:8052 assets/js/app-packages.js:8159
+#: assets/js/app-packages.js:8682 assets/js/app-packages.js:8873
+#: assets/js/app-packages.js:8921 assets/js/app-packages.js:8962
+#: assets/js/app-packages.js:10701 assets/js/app-packages.js:10837
+#: assets/js/app.js:3926 assets/js/app.js:6956 assets/js/app.js:7364
+#: assets/js/app.js:7471 assets/js/app.js:7994 assets/js/app.js:8185
+#: assets/js/app.js:8233 assets/js/app.js:8274 assets/js/editor.js:9663
+#: assets/js/editor.js:13152 assets/js/editor.js:13184
+#: assets/js/editor.js:23139
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:905
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:3501
+msgid "Learn More"
+msgstr "Více informací"
+
+#: includes/controls/groups/background.php:486
+msgctxt "Background Control"
+msgid "Contain"
+msgstr "Obsáhnout"
+
+#: includes/widgets/button.php:399 includes/widgets/icon-box.php:338
+#: includes/widgets/icon.php:286 includes/widgets/image-box.php:288
+#: includes/widgets/image.php:470 includes/widgets/social-icons.php:539
+#: modules/shapes/widgets/text-path.php:437
+msgid "Hover Animation"
+msgstr "Animace přechodu"
+
+#: includes/elements/column.php:838 includes/elements/section.php:1281
+#: includes/widgets/common.php:225
+msgid "Fast"
+msgstr "Rychle"
+
+#: includes/elements/column.php:836 includes/elements/section.php:1279
+#: includes/widgets/common.php:223
+msgid "Slow"
+msgstr "Pomalu"
+
+#: includes/controls/box-shadow.php:78 includes/controls/text-shadow.php:66
+msgid "Blur"
+msgstr "Blur"
+
+#: includes/controls/groups/box-shadow.php:61
+#: includes/controls/groups/box-shadow.php:96
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr "Box Stín"
+
+#: includes/controls/groups/box-shadow.php:73
+msgctxt "Box Shadow Control"
+msgid "Inset"
+msgstr "Vsazený"
+
+#: core/schemes/color.php:80
+msgid "Color Palettes"
+msgstr "Barevné palety"
+
+#: core/schemes/typography.php:78
+msgid "Default Fonts"
+msgstr "Výchozí písma"
+
+#: includes/elements/column.php:823 includes/elements/section.php:1266
+#: includes/widgets/common.php:210 includes/widgets/video.php:811
+msgid "Entrance Animation"
+msgstr "Vstupní animace"
+
+#: includes/controls/box-shadow.php:68 includes/controls/text-shadow.php:71
+#: includes/widgets/tabs.php:156
+msgid "Horizontal"
+msgstr "Vodorovný"
+
+#: includes/controls/box-shadow.php:83
+msgid "Spread"
+msgstr "Handicap"
+
+#: includes/controls/box-shadow.php:73 includes/controls/text-shadow.php:76
+#: includes/widgets/tabs.php:157
+msgid "Vertical"
+msgstr "Svislý"
+
+#: includes/settings/settings.php:457
+msgid "Disable Default Colors"
+msgstr "Zakázat výchozí barvy"
+
+#: includes/widgets/testimonial.php:171
+msgid "Aside"
+msgstr "Poznámka"
+
+#: includes/widgets/social-icons.php:189 includes/widgets/social-icons.php:347
+msgid "Official Color"
+msgstr "Oficiální barva"
+
+#: includes/widgets/social-icons.php:261
+msgid "Rounded"
+msgstr "Zaoblený"
+
+#: includes/widgets/social-icons.php:42 includes/widgets/social-icons.php:85
+#: includes/widgets/social-icons.php:227
+msgid "Social Icons"
+msgstr "Sociální ikony"
+
+#: includes/widgets/testimonial.php:45 includes/widgets/testimonial.php:88
+msgid "Testimonial"
+msgstr "Recenze"
+
+#: includes/widgets/progress.php:101
+msgid "My Skill"
+msgstr "Dovednosti"
+
+#: includes/elements/column.php:347 includes/elements/section.php:626
+msgid "Background Overlay"
+msgstr "Překrytí pozadí"
+
+#: includes/widgets/audio.php:152
+msgid "Buy Button"
+msgstr "Tlačítko Koupit"
+
+#: includes/widgets/audio.php:210
+msgid "Comments"
+msgstr "Komentáře"
+
+#: includes/widgets/audio.php:174 includes/widgets/video.php:506
+msgid "Download Button"
+msgstr "Tlačítko stáhnout"
+
+#: includes/elements/section.php:287
+msgid "Extended"
+msgstr "Prodloužený"
+
+#: core/admin/feedback.php:100
+msgid "I found a better plugin"
+msgstr "Našel jsem lepší plugin"
+
+#: core/admin/feedback.php:96
+msgid "I no longer need the plugin"
+msgstr "Už tento plugin nepotřebuji"
+
+#: core/admin/feedback.php:134
+msgid "If you have a moment, please share why you are deactivating Elementor:"
+msgstr "Máte-li chvilku, sdělte nám důvod, proč deaktivujete plugin Elementor:"
+
+#: includes/widgets/audio.php:163
+msgid "Like Button"
+msgstr "Like Button"
+
+#: core/admin/feedback.php:117
+msgid "Other"
+msgstr "Další"
+
+#: includes/widgets/audio.php:221
+msgid "Play Counts"
+msgstr "Počet přehrání"
+
+#: core/admin/feedback.php:118
+msgid "Please share the reason"
+msgstr "Prosím sdílejte důvod"
+
+#: core/admin/feedback.php:101
+msgid "Please share which plugin"
+msgstr "Prosím podělte se o plugin"
+
+#: core/admin/feedback.php:126
+msgid "Quick Feedback"
+msgstr "Rychlá zpětná vazba"
+
+#: includes/widgets/audio.php:199
+msgid "Share Button"
+msgstr "Velikost tlačítka Sdílení"
+
+#: includes/widgets/audio.php:53 includes/widgets/audio.php:96
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: core/admin/admin-notices.php:149 core/base/db-upgrades-manager.php:93
+msgid "Update Now"
+msgstr "Aktualizovat"
+
+#: includes/widgets/audio.php:232
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: includes/widgets/audio.php:122
+msgid "Visual Player"
+msgstr "Video přehrávač"
+
+#: core/admin/feedback.php:108
+msgid "It's a temporary deactivation"
+msgstr "Dočasná deaktivace"
+
+#: core/admin/feedback.php:104
+msgid "I couldn't get the plugin to work"
+msgstr "Nepovedlo se mi plugin zprovoznit"
+
+#. translators: %s: Elementor version
+#: core/admin/admin-notices.php:136
+msgid "View Elementor version %s details"
+msgstr "Zobrazit detaily o Elementor verze %s"
+
+#. translators: 1: Details URL, 2: Accessibility text, 3: Version number, 4:
+#. Update URL, 5: Accessibility text
+#: core/admin/admin-notices.php:132
+msgid "There is a new version of Elementor Page Builder available. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">update now</a>."
+msgstr "Je dostupná nová verze Elementoru! <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">Zobrazit verzi %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">Aktualizovat!</a>."
+
+#: core/kits/documents/tabs/settings-background.php:18
+#: includes/elements/column.php:273 includes/elements/section.php:553
+#: includes/widgets/accordion.php:287 includes/widgets/accordion.php:444
+#: includes/widgets/button.php:328 includes/widgets/button.php:370
+#: includes/widgets/common.php:255 includes/widgets/toggle.php:314
+#: includes/widgets/toggle.php:471
+msgid "Background"
+msgstr "Pozadí"
+
+#: includes/widgets/image-carousel.php:182 includes/widgets/image.php:195
+msgid "Custom URL"
+msgstr "Zadat vlastní adresu"
+
+#: core/common/modules/finder/categories/general.php:29
+#: core/role-manager/role-manager.php:59 includes/managers/elements.php:279
+#: includes/settings/settings.php:436 includes/settings/tools.php:259
+msgid "General"
+msgstr "Obecné"
+
+#: includes/elements/section.php:289
+msgid "Wider"
+msgstr "Širší"
+
+#: includes/editor-templates/hotkeys.php:43 assets/js/editor-document.js:12517
+#: assets/js/editor-document.js:13465 assets/js/editor-document.js:14899
+#: assets/js/editor.js:14435 assets/js/editor.js:15998
+#: assets/js/editor.js:25063 assets/js/editor.js:25935
+msgid "Paste"
+msgstr "Vložit"
+
+#: includes/widgets/audio.php:135 includes/widgets/image-carousel.php:246
+msgid "Additional Options"
+msgstr "Další možnosti"
+
+#: includes/elements/column.php:832 includes/elements/section.php:1275
+#: includes/widgets/common.php:219 includes/widgets/counter.php:159
+msgid "Animation Duration"
+msgstr "Trvání animace"
+
+#: includes/widgets/image-carousel.php:348
+msgid "Animation Speed"
+msgstr "Rychlost animace"
+
+#: includes/widgets/image-carousel.php:164
+msgid "Arrows and Dots"
+msgstr "Šipky a tečky"
+
+#: includes/controls/groups/background.php:765
+#: includes/widgets/image-carousel.php:359
+msgid "Direction"
+msgstr "Směr"
+
+#: includes/widgets/image-carousel.php:45
+#: includes/widgets/image-carousel.php:88
+msgid "Image Carousel"
+msgstr "Obrázkový kolotoč"
+
+#: includes/widgets/image-carousel.php:147
+msgid "Image Stretch"
+msgstr "Roztáhnout obrázek"
+
+#: includes/widgets/image-carousel.php:401
+#: includes/widgets/image-carousel.php:465
+msgid "Inside"
+msgstr "Uvnitř"
+
+#: includes/widgets/alert.php:194
+msgid "Left Border Width"
+msgstr "Šířka levého okraje"
+
+#: includes/widgets/image-carousel.php:402
+#: includes/widgets/image-carousel.php:464
+msgid "Outside"
+msgstr "Vně"
+
+#: includes/controls/groups/image-size.php:297
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr "Můžete oříznout původní velikost obrázku velikosti. Chcete-li zachovat původní poměr velikosti lze také nastavit jednu hodnotu pro výšku nebo šířku."
+
+#: includes/widgets/video.php:480
+msgid "Intro Byline"
+msgstr "Intro Byline"
+
+#: includes/widgets/accordion.php:416 includes/widgets/divider.php:760
+#: includes/widgets/divider.php:900 includes/widgets/icon-box.php:350
+#: includes/widgets/icon-box.php:517 includes/widgets/image-box.php:225
+#: includes/widgets/image-box.php:451 includes/widgets/image-carousel.php:549
+#: includes/widgets/image-gallery.php:191 includes/widgets/image.php:602
+#: includes/widgets/social-icons.php:428 includes/widgets/star-rating.php:291
+#: includes/widgets/toggle.php:443
+msgid "Spacing"
+msgstr "Řádkování"
+
+#: includes/controls/groups/border.php:67
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "Přerušovaný"
+
+#: includes/controls/groups/border.php:66
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "Tečkovaný"
+
+#: includes/controls/groups/border.php:65
+msgctxt "Border Control"
+msgid "Double"
+msgstr "Dvojitý"
+
+#: includes/controls/groups/border.php:64
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "Plný"
+
+#: includes/widgets/audio.php:243 includes/widgets/video.php:494
+msgid "Controls Color"
+msgstr "Barva ovládacích prvků"
+
+#: includes/widgets/image-gallery.php:263
+msgid "Display"
+msgstr "Zobrazení"
+
+#: includes/controls/groups/image-size.php:378
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr "Vlastní"
+
+#: includes/controls/groups/image-size.php:295
+msgctxt "Image Size Control"
+msgid "Image Dimension"
+msgstr "Rozměry obrazu"
+
+#: includes/widgets/video.php:320
+msgid "Loop"
+msgstr "Přehrávat opakovaně"
+
+#: includes/controls/image-dimensions.php:81
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "Server nemá nainstalovánu nebo spuštěnu knihovnu ImageMagic či GD! Některá z těchto knihoven jsou systémem WordPress vyžadovány proto, aby bylo možné změnit velikost obrázků. Pokud chcete, abyste mohli pokračovat, obraťte se na správce systému."
+
+#: includes/widgets/video.php:44 includes/widgets/video.php:103
+#: includes/widgets/video.php:623
+msgid "Video"
+msgstr "Video"
+
+#: includes/widgets/video.php:268
+msgid "Video Options"
+msgstr "Možnosti videa"
+
+#: includes/widgets/video.php:115
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/video.php:452
+msgid "Intro Title"
+msgstr "Úvodní nadpis"
+
+#: includes/widgets/video.php:466
+msgid "Intro Portrait"
+msgstr "Úvodní portrét"
+
+#: includes/widgets/image-carousel.php:331
+msgid "Effect"
+msgstr "Efekt"
+
+#: includes/controls/groups/image-size.php:375
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "Plné"
+
+#: includes/widgets/image-carousel.php:336
+msgid "Fade"
+msgstr "Vyblednutí"
+
+#: includes/widgets/image-carousel.php:166
+#: includes/widgets/image-carousel.php:448
+msgid "Dots"
+msgstr "Tečky"
+
+#: includes/controls/groups/background.php:661
+#: includes/widgets/image-carousel.php:317
+msgid "Infinite Loop"
+msgstr "Nekonečná smyčka"
+
+#: includes/widgets/icon-box.php:493 includes/widgets/image-box.php:427
+msgid "Vertical Alignment"
+msgstr "Svislé zarovnání"
+
+#: includes/controls/groups/image-size.php:290
+msgctxt "Image Size Control"
+msgid "Image Size"
+msgstr "Velikost obrázku"
+
+#: includes/controls/groups/typography.php:180
+msgctxt "Typography Control"
+msgid "None"
+msgstr "Žádný"
+
+#: includes/elements/column.php:785 includes/elements/section.php:1248
+#: includes/widgets/common.php:192
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "Přidejte své vlastní třídu bez tečky. např.: moje třída"
+
+#: includes/widgets/icon-box.php:146 includes/widgets/image-box.php:123
+msgid "This is the heading"
+msgstr "Tohle je nadpis"
+
+#: includes/widgets/accordion.php:207 includes/widgets/icon-box.php:219
+#: includes/widgets/image-box.php:186 includes/widgets/toggle.php:211
+msgid "Title HTML Tag"
+msgstr "HTML značka Title"
+
+#: core/kits/documents/tabs/global-typography.php:178
+msgid "The list of fonts used if the chosen font is not available."
+msgstr "Seznam písem použitých pokud zvolené písmo není k dispozici."
+
+#: includes/managers/elements.php:308
+msgid "Pojo Themes"
+msgstr "Pojo schéma"
+
+#: includes/editor-templates/panel-elements.php:10
+#: assets/js/editor-document.js:4196 assets/js/editor-document.js:6138
+#: assets/js/editor-document.js:6669 assets/js/editor.js:19940
+msgid "Elements"
+msgstr "Prvky"
+
+#: includes/widgets/wordpress.php:230
+msgid "Form"
+msgstr "Form"
+
+#: modules/system-info/reporters/server.php:121
+msgctxt "System Info"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "Doporučujeme použít php 5.4 nebo vyšší"
+
+#: core/admin/admin.php:275
+#: core/common/modules/finder/categories/settings.php:28
+#: core/dynamic-tags/base-tag.php:171 includes/editor-templates/panel.php:65
+#: includes/editor-templates/responsive-bar.php:61
+#: includes/managers/controls.php:304 includes/settings/settings.php:402
+#: assets/js/editor.js:5187 assets/js/editor.js:20694 assets/js/editor.js:32076
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/controls/groups/typography.php:154
+msgctxt "Typography Control"
+msgid "Capitalize"
+msgstr "Kapitálky"
+
+#: includes/controls/groups/typography.php:166
+msgctxt "Typography Control"
+msgid "Italic"
+msgstr "Kurzíva"
+
+#: includes/controls/groups/typography.php:153
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr "Malá písmena"
+
+#: includes/controls/groups/typography.php:155
+#: includes/controls/groups/typography.php:165
+msgctxt "Typography Control"
+msgid "Normal"
+msgstr "Normální"
+
+#: includes/controls/groups/typography.php:167
+msgctxt "Typography Control"
+msgid "Oblique"
+msgstr "Oblique"
+
+#: includes/controls/groups/typography.php:152
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr "Verzálky"
+
+#: core/kits/documents/tabs/global-colors.php:93
+#: core/kits/documents/tabs/global-typography.php:144 core/schemes/color.php:98
+msgid "Accent"
+msgstr "Akcent"
+
+#: core/schemes/typography.php:96
+msgid "Accent Text"
+msgstr "Zvýrazněný text"
+
+#: includes/widgets/accordion.php:45 includes/widgets/accordion.php:88
+#: includes/widgets/accordion.php:237
+msgid "Accordion"
+msgstr "Akordeon"
+
+#: includes/widgets/accordion.php:125
+msgid "Accordion #1"
+msgstr "Skládačka #1"
+
+#: includes/widgets/accordion.php:129
+msgid "Accordion #2"
+msgstr "Skládačka #2"
+
+#: includes/widgets/accordion.php:112
+msgid "Accordion Content"
+msgstr "Obsah accordion"
+
+#: includes/widgets/accordion.php:120
+msgid "Accordion Items"
+msgstr "Položky akordeonu"
+
+#: includes/widgets/accordion.php:99
+msgid "Accordion Title"
+msgstr "Accordion název"
+
+#: includes/widgets/accordion.php:313 includes/widgets/accordion.php:404
+#: includes/widgets/tabs.php:326 includes/widgets/toggle.php:341
+#: includes/widgets/toggle.php:431
+msgid "Active Color"
+msgstr "Aktivní barva"
+
+#: includes/controls/gallery.php:88 includes/widgets/image-carousel.php:95
+#: includes/widgets/image-gallery.php:94
+msgid "Add Images"
+msgstr "Přidat obrázky"
+
+#: includes/controls/repeater.php:172
+msgid "Add Item"
+msgstr "Přidat položku"
+
+#: includes/editor-templates/global.php:21
+msgid "Add New Section"
+msgstr "Přidat novou sekci"
+
+#: core/common/modules/finder/categories/settings.php:51
+#: core/dynamic-tags/tag.php:88 includes/elements/column.php:718
+#: includes/elements/section.php:1175 includes/managers/controls.php:301
+#: includes/settings/settings.php:530 includes/widgets/common.php:116
+#: assets/js/editor.js:5193 assets/js/editor.js:19779
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: core/dynamic-tags/tag.php:102 includes/widgets/button.php:219
+msgid "After"
+msgstr "Po"
+
+#: includes/widgets/alert.php:45 includes/widgets/alert.php:88
+#: includes/widgets/alert.php:164
+msgid "Alert"
+msgstr "Upozornění"
+
+#: includes/widgets/menu-anchor.php:86
+msgid "Anchor"
+msgstr "Záložka"
+
+#: core/schemes/base-ui.php:119 includes/controls/image-dimensions.php:102
+#: includes/editor-templates/panel.php:151
+#: modules/history/views/revisions-panel-template.php:18
+msgid "Apply"
+msgstr "Použít"
+
+#: includes/widgets/accordion.php:372 includes/widgets/button.php:164
+#: includes/widgets/divider.php:448 includes/widgets/heading.php:176
+#: includes/widgets/icon-box.php:464 includes/widgets/icon-list.php:238
+#: includes/widgets/icon-list.php:449 includes/widgets/icon.php:167
+#: includes/widgets/image-box.php:398 includes/widgets/image-carousel.php:622
+#: includes/widgets/image-gallery.php:279 includes/widgets/image.php:134
+#: includes/widgets/image.php:527 includes/widgets/social-icons.php:297
+#: includes/widgets/star-rating.php:170 includes/widgets/tabs.php:167
+#: includes/widgets/tabs.php:197 includes/widgets/tabs.php:360
+#: includes/widgets/testimonial.php:185 includes/widgets/text-editor.php:188
+#: includes/widgets/toggle.php:399 modules/shapes/widgets/text-path.php:155
+msgid "Alignment"
+msgstr "Zarovnání"
+
+#: includes/widgets/image-carousel.php:165
+#: includes/widgets/image-carousel.php:385
+msgid "Arrows"
+msgstr "Šipky"
+
+#: includes/widgets/image-gallery.php:133
+msgid "Attachment Page"
+msgstr "Stránka se zobrazením souboru"
+
+#: includes/widgets/audio.php:144 includes/widgets/image-carousel.php:253
+#: includes/widgets/video.php:277
+msgid "Autoplay"
+msgstr "Automaticky spustit"
+
+#: includes/widgets/image-carousel.php:302
+msgid "Autoplay Speed"
+msgstr "Automatická rychlost přehrávání"
+
+#: core/kits/documents/tabs/settings-lightbox.php:130
+#: core/kits/documents/tabs/theme-style-form-fields.php:189
+#: includes/widgets/alert.php:172 includes/widgets/image.php:572
+#: includes/widgets/progress.php:200 includes/widgets/tabs.php:291
+#: includes/widgets/video.php:739
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: includes/controls/groups/background.php:427
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr "Příloha"
+
+#: includes/controls/groups/background.php:484
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "Kompletní soubor"
+
+#: includes/controls/groups/background.php:136
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: includes/controls/groups/background.php:256
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr "Obrázek na pozadí"
+
+#: includes/controls/groups/background.php:127
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr "Typ pozadí"
+
+#: includes/controls/groups/background.php:234
+#: includes/controls/groups/background.php:279
+#: includes/controls/groups/background.php:741
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "Dole uprostřed"
+
+#: includes/controls/groups/background.php:235
+#: includes/controls/groups/background.php:280
+#: includes/controls/groups/background.php:742
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr "Vlevo dole"
+
+#: includes/controls/groups/background.php:236
+#: includes/controls/groups/background.php:281
+#: includes/controls/groups/background.php:743
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+#: includes/controls/groups/background.php:229
+#: includes/controls/groups/background.php:274
+#: includes/controls/groups/background.php:736
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "Uprostřed vlevo"
+
+#: includes/controls/groups/background.php:230
+#: includes/controls/groups/background.php:275
+#: includes/controls/groups/background.php:737
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "Uprostřed vpravo"
+
+#: includes/controls/groups/background.php:95
+msgctxt "Background Control"
+msgid "Classic"
+msgstr "Klasický"
+
+#: includes/controls/groups/background.php:133
+msgctxt "Background Control"
+msgid "Color"
+msgstr "Barva"
+
+#: includes/controls/groups/background.php:485
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "Překrytí"
+
+#: includes/controls/groups/background.php:433
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr "Pevná"
+
+#: includes/controls/groups/background.php:250
+msgctxt "Background Control"
+msgid "Image"
+msgstr "Obrázek"
+
+#: includes/controls/groups/background.php:463
+msgctxt "Background Control"
+msgid "No-repeat"
+msgstr "Neopakovat"
+
+#: includes/controls/groups/background.php:225
+#: includes/controls/groups/background.php:267
+msgctxt "Background Control"
+msgid "Position"
+msgstr "Pozice"
+
+#: includes/controls/groups/background.php:457
+#: includes/controls/groups/background.php:464
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr "Opakovat"
+
+#: includes/controls/groups/background.php:465
+msgctxt "Background Control"
+msgid "Repeat-x"
+msgstr "Opakovat-x"
+
+#: includes/controls/groups/background.php:466
+msgctxt "Background Control"
+msgid "Repeat-y"
+msgstr "Opakovat-y"
+
+#: includes/controls/groups/background.php:432
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr "Posouvat"
+
+#: includes/controls/groups/background.php:478
+msgctxt "Background Control"
+msgid "Size"
+msgstr "Velikost"
+
+#: includes/controls/groups/background.php:231
+#: includes/controls/groups/background.php:276
+#: includes/controls/groups/background.php:738
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "Nahoře uprostřed"
+
+#: includes/controls/groups/background.php:232
+#: includes/controls/groups/background.php:277
+#: includes/controls/groups/background.php:739
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+#: includes/controls/groups/background.php:233
+#: includes/controls/groups/background.php:278
+#: includes/controls/groups/background.php:740
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+#: includes/controls/groups/background.php:554
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr "Link na video"
+
+#: includes/managers/elements.php:272
+msgid "Basic"
+msgstr "Základní"
+
+#: core/dynamic-tags/tag.php:95 includes/widgets/button.php:218
+msgid "Before"
+msgstr "Před"
+
+#: core/schemes/typography.php:95
+msgid "Body Text"
+msgstr "Text těla stránky"
+
+#: includes/elements/column.php:502 includes/elements/section.php:809
+#: includes/widgets/common.php:322
+msgid "Border"
+msgstr "Rámeček"
+
+#: includes/widgets/accordion.php:264 includes/widgets/alert.php:183
+#: includes/widgets/button.php:385 includes/widgets/social-icons.php:524
+#: includes/widgets/tabs.php:280 includes/widgets/toggle.php:267
+msgid "Border Color"
+msgstr "Barva rámečku"
+
+#: includes/controls/groups/border.php:60
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "Typ rámečku"
+
+#: includes/controls/groups/border.php:88
+msgctxt "Border Control"
+msgid "Color"
+msgstr "Barva"
+
+#: includes/controls/groups/border.php:76
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Šířka"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:153
+#: core/kits/documents/tabs/theme-style-buttons.php:228
+#: core/kits/documents/tabs/theme-style-form-fields.php:222
+#: core/kits/documents/tabs/theme-style-images.php:83
+#: core/kits/documents/tabs/theme-style-images.php:154
+#: includes/elements/column.php:527 includes/elements/column.php:564
+#: includes/elements/section.php:833 includes/elements/section.php:869
+#: includes/widgets/button.php:420 includes/widgets/common.php:347
+#: includes/widgets/common.php:384 includes/widgets/divider.php:953
+#: includes/widgets/icon-box.php:439 includes/widgets/icon.php:372
+#: includes/widgets/image-box.php:276 includes/widgets/image-carousel.php:597
+#: includes/widgets/image-gallery.php:241 includes/widgets/image.php:491
+#: includes/widgets/progress.php:222 includes/widgets/social-icons.php:471
+#: includes/widgets/testimonial.php:307 includes/widgets/text-editor.php:358
+msgid "Border Radius"
+msgstr "Poloměr rámečku"
+
+#: includes/widgets/accordion.php:245 includes/widgets/divider.php:939
+#: includes/widgets/icon-box.php:425 includes/widgets/icon.php:358
+#: includes/widgets/tabs.php:260 includes/widgets/text-editor.php:377
+#: includes/widgets/toggle.php:249
+msgid "Border Width"
+msgstr "Šířka okraje"
+
+#: includes/controls/dimensions.php:90 includes/elements/column.php:190
+#: includes/elements/section.php:428 includes/elements/section.php:451
+#: includes/elements/section.php:950 includes/widgets/common.php:915
+#: includes/widgets/icon-box.php:498 includes/widgets/image-box.php:432
+msgid "Bottom"
+msgstr "Dolů"
+
+#: includes/elements/section.php:249
+msgid "Boxed"
+msgstr "V boxu"
+
+#: includes/widgets/button.php:46 includes/widgets/button.php:112
+#: includes/widgets/button.php:279
+msgid "Button"
+msgstr "Tlačítko"
+
+#: includes/elements/column.php:778 includes/elements/section.php:1241
+#: includes/widgets/common.php:186
+msgid "CSS Classes"
+msgstr "CSS třídy"
+
+#: core/kits/documents/tabs/settings-lightbox.php:101
+#: core/kits/documents/tabs/settings-lightbox.php:118
+#: includes/widgets/image-carousel.php:220
+#: includes/widgets/image-carousel.php:226
+#: includes/widgets/image-carousel.php:611
+#: includes/widgets/image-gallery.php:255 includes/widgets/image.php:159
+#: includes/widgets/image.php:516
+msgid "Caption"
+msgstr "Titulek"
+
+#: includes/controls/media.php:170 includes/widgets/image-box.php:95
+#: includes/widgets/image.php:111 includes/widgets/testimonial.php:108
+#: includes/widgets/video.php:562
+msgid "Choose Image"
+msgstr "Zvolit obrázek"
+
+#: includes/widgets/sidebar.php:89 includes/widgets/sidebar.php:109
+msgid "Choose Sidebar"
+msgstr "Vyberte postranní panel"
+
+#: includes/elements/column.php:217 includes/elements/column.php:694
+#: includes/elements/section.php:1151 includes/widgets/button.php:172
+#: includes/widgets/common.php:749 includes/widgets/divider.php:456
+#: includes/widgets/divider.php:744 includes/widgets/divider.php:884
+#: includes/widgets/heading.php:184 includes/widgets/icon-box.php:472
+#: includes/widgets/icon-list.php:246 includes/widgets/icon-list.php:457
+#: includes/widgets/icon.php:175 includes/widgets/image-box.php:406
+#: includes/widgets/image-carousel.php:529
+#: includes/widgets/image-carousel.php:630
+#: includes/widgets/image-gallery.php:287 includes/widgets/image.php:142
+#: includes/widgets/image.php:535 includes/widgets/social-icons.php:305
+#: includes/widgets/star-rating.php:178 includes/widgets/tabs.php:175
+#: includes/widgets/tabs.php:205 includes/widgets/tabs.php:368
+#: includes/widgets/testimonial.php:194 includes/widgets/text-editor.php:196
+#: includes/widgets/video.php:796 modules/shapes/widgets/text-path.php:164
+msgid "Center"
+msgstr "Na střed"
+
+#: includes/widgets/common.php:66 includes/widgets/icon-box.php:126
+#: includes/widgets/icon.php:141 includes/widgets/social-icons.php:263
+#: modules/shapes/module.php:22
+msgid "Circle"
+msgstr "Kroužek"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:78
+#: core/kits/documents/tabs/theme-style-typography.php:133
+#: core/kits/documents/tabs/theme-style-typography.php:163
+#: core/kits/documents/tabs/theme-style-typography.php:209
+#: includes/controls/box-shadow.php:104 includes/controls/text-shadow.php:97
+#: includes/elements/column.php:417 includes/elements/section.php:708
+#: includes/elements/section.php:975 includes/widgets/accordion.php:298
+#: includes/widgets/accordion.php:392 includes/widgets/accordion.php:455
+#: includes/widgets/divider.php:576 includes/widgets/divider.php:711
+#: includes/widgets/icon-box.php:534 includes/widgets/icon-box.php:577
+#: includes/widgets/icon-list.php:368 includes/widgets/icon-list.php:396
+#: includes/widgets/image-box.php:468 includes/widgets/image-box.php:511
+#: includes/widgets/image-carousel.php:434
+#: includes/widgets/image-carousel.php:497 includes/widgets/progress.php:186
+#: includes/widgets/progress.php:243 includes/widgets/social-icons.php:185
+#: includes/widgets/social-icons.php:343 includes/widgets/star-rating.php:309
+#: includes/widgets/tabs.php:312 includes/widgets/tabs.php:397
+#: includes/widgets/toggle.php:326 includes/widgets/toggle.php:419
+#: includes/widgets/toggle.php:482 includes/widgets/video.php:671
+#: modules/shapes/widgets/text-path.php:401
+#: modules/shapes/widgets/text-path.php:425
+#: modules/shapes/widgets/text-path.php:499
+#: modules/shapes/widgets/text-path.php:519
+#: modules/shapes/widgets/text-path.php:565
+#: modules/shapes/widgets/text-path.php:585 assets/js/editor.js:32217
+#: assets/js/editor.js:32263
+msgid "Color"
+msgstr "Barva"
+
+#: core/schemes/color.php:134 core/schemes/color.php:289
+msgid "Color Palette"
+msgstr "Barevná paleta"
+
+#: core/schemes/color.php:66
+msgid "Colors"
+msgstr "Barvy"
+
+#: includes/elements/column.php:60
+msgid "Column"
+msgstr "Sloupec"
+
+#: includes/elements/section.php:421
+msgid "Column Position"
+msgstr "Pozice sloupce"
+
+#: includes/elements/column.php:156
+msgid "Column Width"
+msgstr "Šířka sloupce"
+
+#: includes/widgets/image-gallery.php:118 includes/widgets/social-icons.php:272
+#: includes/widgets/text-editor.php:136
+msgid "Columns"
+msgstr "Sloupce"
+
+#: includes/elements/section.php:280 includes/widgets/text-editor.php:149
+msgid "Columns Gap"
+msgstr "Mezera sloupců"
+
+#: includes/managers/controls.php:299 includes/widgets/accordion.php:110
+#: includes/widgets/accordion.php:436 includes/widgets/alert.php:125
+#: includes/widgets/icon-box.php:456 includes/widgets/image-box.php:132
+#: includes/widgets/image-box.php:390 includes/widgets/tabs.php:112
+#: includes/widgets/tabs.php:388 includes/widgets/testimonial.php:95
+#: includes/widgets/testimonial.php:224 includes/widgets/toggle.php:111
+#: includes/widgets/toggle.php:463 assets/js/app-packages.js:9384
+#: assets/js/app.js:8696 assets/js/editor.js:19773
+msgid "Content"
+msgstr "Obsah"
+
+#: includes/widgets/video.php:792
+msgid "Content Position"
+msgstr "Pozice obsahu"
+
+#: core/kits/documents/tabs/settings-layout.php:55
+#: includes/elements/section.php:245 includes/widgets/video.php:773
+msgid "Content Width"
+msgstr "Šířka obsahu"
+
+#: includes/widgets/counter.php:203 includes/widgets/counter.php:204
+msgid "Cool Number"
+msgstr "Super číslo"
+
+#: modules/system-info/module.php:159
+msgid "Copy & Paste Info"
+msgstr "Kopie & vložit informace"
+
+#: core/kits/documents/tabs/settings-lightbox.php:56
+#: includes/widgets/counter.php:45 includes/widgets/counter.php:102
+msgid "Counter"
+msgstr "Počítadlo"
+
+#: includes/elements/section.php:290 includes/maintenance-mode.php:238
+#: includes/widgets/common.php:75 includes/widgets/common.php:504
+#: includes/widgets/common.php:565 includes/widgets/common.php:689
+#: includes/widgets/image-carousel.php:553
+#: includes/widgets/image-gallery.php:195 includes/widgets/social-icons.php:190
+#: includes/widgets/social-icons.php:348 modules/shapes/module.php:29
+#: assets/js/editor.js:29712
+msgid "Custom"
+msgstr "Vlastní"
+
+#: includes/widgets/alert.php:102 includes/widgets/button.php:127
+#: includes/widgets/progress.php:117
+msgid "Danger"
+msgstr "Nebezpečí"
+
+#: includes/widgets/divider.php:323 includes/widgets/icon-list.php:281
+msgid "Dashed"
+msgstr "Přerušovaný"
+
+#: core/experiments/manager.php:304
+#: core/settings/editor-preferences/model.php:132
+#: includes/base/widget-base.php:265 includes/controls/animation.php:152
+#: includes/controls/font.php:66 includes/controls/groups/background.php:715
+#: includes/controls/groups/background.php:734
+#: includes/controls/groups/typography.php:132
+#: includes/controls/groups/typography.php:151
+#: includes/controls/groups/typography.php:164
+#: includes/controls/groups/typography.php:176
+#: includes/editor-templates/panel.php:213 includes/elements/column.php:187
+#: includes/elements/column.php:215 includes/elements/column.php:255
+#: includes/elements/section.php:284 includes/elements/section.php:335
+#: includes/elements/section.php:384 includes/elements/section.php:448
+#: includes/elements/section.php:476 includes/elements/section.php:512
+#: includes/settings/settings.php:577 includes/widgets/button.php:123
+#: includes/widgets/common.php:686 includes/widgets/common.php:787
+#: includes/widgets/divider.php:793 includes/widgets/heading.php:143
+#: includes/widgets/icon-box.php:111 includes/widgets/icon-list.php:100
+#: includes/widgets/icon.php:126 includes/widgets/image-carousel.php:122
+#: includes/widgets/image-carousel.php:135
+#: includes/widgets/image-carousel.php:207
+#: includes/widgets/image-carousel.php:552
+#: includes/widgets/image-gallery.php:146
+#: includes/widgets/image-gallery.php:162
+#: includes/widgets/image-gallery.php:194 includes/widgets/image.php:223
+#: includes/widgets/image.php:362 includes/widgets/progress.php:113
+#: includes/widgets/text-editor.php:131 includes/widgets/text-editor.php:266
+#: modules/page-templates/module.php:296
+#: modules/shapes/widgets/text-path.php:186 assets/js/editor.js:29703
+#: assets/js/editor.js:29715
+msgid "Default"
+msgstr "Výchozí hodnota"
+
+#: core/kits/views/trash-kit-confirmation.php:30
+#: includes/editor-templates/hotkeys.php:60
+#: includes/editor-templates/templates.php:185
+#: assets/js/editor-document.js:12553 assets/js/editor.js:6057
+#: assets/js/editor.js:9365 assets/js/editor.js:12845 assets/js/editor.js:14471
+#: assets/js/editor.js:32275
+msgid "Delete"
+msgstr "Odstranit"
+
+#: core/kits/documents/tabs/settings-lightbox.php:103
+#: core/kits/documents/tabs/settings-lightbox.php:113
+#: core/kits/documents/tabs/settings-lightbox.php:120
+#: includes/compatibility.php:176 includes/widgets/alert.php:253
+#: includes/widgets/icon-box.php:568 includes/widgets/image-box.php:502
+#: includes/widgets/image-carousel.php:227
+msgid "Description"
+msgstr "Popis"
+
+#: core/schemes/base-ui.php:115
+#: modules/history/views/revisions-panel-template.php:13
+#: assets/js/editor.js:1292
+msgid "Discard"
+msgstr "Odhodit"
+
+#: includes/widgets/alert.php:140
+msgid "Dismiss Button"
+msgstr "Zavřít"
+
+#: includes/widgets/progress.php:140
+msgid "Display Percentage"
+msgstr "Zobrazit procenta"
+
+#: includes/widgets/divider.php:46 includes/widgets/divider.php:356
+#: includes/widgets/divider.php:515 includes/widgets/divider.php:565
+#: includes/widgets/icon-list.php:261
+msgid "Divider"
+msgstr "Oddělovač"
+
+#: includes/widgets/divider.php:322 includes/widgets/icon-list.php:280
+msgid "Dotted"
+msgstr "Tečkovaný"
+
+#: includes/widgets/divider.php:321 includes/widgets/icon-list.php:279
+msgid "Double"
+msgstr "Dvojitý"
+
+#: modules/system-info/module.php:181
+msgid "Download System Info"
+msgstr "Stáhnout informace o systému"
+
+#. Plugin Name of the plugin
+#: core/admin/admin.php:224 core/admin/admin.php:336 core/admin/admin.php:394
+#: core/app/view.php:23 core/documents-manager.php:363
+#: core/upgrade/manager.php:36 includes/editor-templates/editor-wrapper.php:30
+#: includes/plugin.php:905 includes/settings/settings.php:75
+#: includes/settings/settings.php:76 includes/settings/settings.php:604
+#: modules/compatibility-tag/module.php:36 assets/js/app-packages.js:2848
+#: assets/js/app.js:2806
+msgid "Elementor"
+msgstr "Elementor"
+
+#. translators: %s: PHP version
+#: elementor.php:81
+msgid "Elementor requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "ELEMENTOR vyžaduje PHP verze %s+, plugin v současné době není aktivní."
+
+#. Author of the plugin
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#: includes/widgets/counter.php:121
+msgid "Ending Number"
+msgstr "Koncové číslo"
+
+#: includes/widgets/alert.php:113 includes/widgets/heading.php:116
+#: includes/widgets/icon-box.php:147 includes/widgets/image-box.php:124
+#: includes/widgets/progress.php:100
+msgid "Enter your title"
+msgstr "Zadejte svůj název"
+
+#: core/role-manager/role-manager.php:64
+msgid "Exclude Roles"
+msgstr "Vyloučit role"
+
+#: includes/elements/section.php:336 includes/elements/section.php:385
+msgid "Fit To Screen"
+msgstr "Přizpůsobit obrazovce"
+
+#: includes/widgets/divider.php:795 includes/widgets/icon-box.php:113
+#: includes/widgets/icon.php:128 includes/widgets/text-editor.php:268
+msgid "Framed"
+msgstr "Ohraničený"
+
+#: includes/elements/section.php:250 includes/widgets/common.php:687
+#: includes/widgets/icon-list.php:195
+msgid "Full Width"
+msgstr "Celá šířka"
+
+#: includes/widgets/divider.php:677 includes/widgets/star-rating.php:246
+msgid "Gap"
+msgstr "Mezera"
+
+#: includes/fonts.php:68
+msgid "Google"
+msgstr "Google"
+
+#: includes/widgets/google-maps.php:44
+msgid "Google Maps"
+msgstr "Mapy Google"
+
+#: core/kits/documents/tabs/theme-style-typography.php:186
+msgid "H1"
+msgstr "H1"
+
+#: core/kits/documents/tabs/theme-style-typography.php:187
+msgid "H2"
+msgstr "H2"
+
+#: core/kits/documents/tabs/theme-style-typography.php:188
+msgid "H3"
+msgstr "H3"
+
+#: core/kits/documents/tabs/theme-style-typography.php:189
+msgid "H4"
+msgstr "H4"
+
+#: core/kits/documents/tabs/theme-style-typography.php:190
+msgid "H5"
+msgstr "H5"
+
+#: core/kits/documents/tabs/theme-style-typography.php:191
+msgid "H6"
+msgstr "H6"
+
+#: includes/widgets/html.php:42
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/widgets/html.php:85
+msgid "HTML Code"
+msgstr "HTML kód"
+
+#: includes/elements/column.php:261 includes/elements/section.php:518
+#: includes/widgets/divider.php:525 includes/widgets/heading.php:156
+msgid "HTML Tag"
+msgstr "HTML značka"
+
+#: includes/widgets/heading.php:45
+msgid "Heading"
+msgstr "Nadpis"
+
+#: includes/elements/column.php:637 includes/elements/section.php:1094
+msgid "Heading Color"
+msgstr "Barva nadpisu"
+
+#: includes/controls/image-dimensions.php:100 includes/elements/section.php:331
+#: includes/elements/section.php:380 includes/elements/section.php:1018
+#: includes/widgets/google-maps.php:165 includes/widgets/icon-list.php:339
+#: includes/widgets/image.php:325 includes/widgets/progress.php:211
+msgid "Height"
+msgstr "Výška"
+
+#: includes/widgets/alert.php:145 includes/widgets/audio.php:154
+#: includes/widgets/audio.php:165 includes/widgets/audio.php:176
+#: includes/widgets/audio.php:187 includes/widgets/audio.php:201
+#: includes/widgets/audio.php:212 includes/widgets/audio.php:223
+#: includes/widgets/audio.php:234 includes/widgets/counter.php:174
+#: includes/widgets/image-gallery.php:268 includes/widgets/progress.php:145
+#: includes/widgets/video.php:334 includes/widgets/video.php:349
+#: includes/widgets/video.php:376 includes/widgets/video.php:454
+#: includes/widgets/video.php:468 includes/widgets/video.php:482
+#: includes/widgets/video.php:508 includes/widgets/video.php:553
+msgid "Hide"
+msgstr "Skrýt"
+
+#: includes/widgets/accordion.php:149 includes/widgets/accordion.php:361
+#: includes/widgets/button.php:203 includes/widgets/divider.php:487
+#: includes/widgets/divider.php:548 includes/widgets/divider.php:779
+#: includes/widgets/icon-box.php:95 includes/widgets/icon-box.php:241
+#: includes/widgets/icon-list.php:134 includes/widgets/icon-list.php:388
+#: includes/widgets/icon.php:44 includes/widgets/icon.php:103
+#: includes/widgets/icon.php:110 includes/widgets/icon.php:195
+#: includes/widgets/social-icons.php:94 includes/widgets/social-icons.php:335
+#: includes/widgets/star-rating.php:123 includes/widgets/toggle.php:153
+#: includes/widgets/toggle.php:388
+msgid "Icon"
+msgstr "Ikona"
+
+#: includes/widgets/icon-box.php:45 includes/widgets/icon-box.php:88
+msgid "Icon Box"
+msgstr "Ikonový box"
+
+#: includes/widgets/social-icons.php:485
+msgid "Icon Hover"
+msgstr "Ikona při přejetí myší"
+
+#: includes/widgets/icon-list.php:45 includes/widgets/icon-list.php:88
+msgid "Icon List"
+msgstr "Seznam s ikonami"
+
+#: includes/widgets/button.php:214 includes/widgets/icon-box.php:184
+msgid "Icon Position"
+msgstr "Pozice ikony"
+
+#: includes/widgets/button.php:230
+msgid "Icon Spacing"
+msgstr "Rozestup ikon"
+
+#: includes/widgets/common.php:461 includes/widgets/image-box.php:217
+#: includes/widgets/image-carousel.php:513 includes/widgets/image.php:45
+#: includes/widgets/image.php:104 includes/widgets/image.php:247
+#: includes/widgets/testimonial.php:269
+msgid "Image"
+msgstr "Obrázek"
+
+#: includes/widgets/image-box.php:45 includes/widgets/image-box.php:88
+msgid "Image Box"
+msgstr "Box s obrázkem"
+
+#: includes/widgets/image-gallery.php:87
+msgid "Image Gallery"
+msgstr "Galerie obrázků"
+
+#: includes/widgets/video.php:544 includes/widgets/video.php:551
+msgid "Image Overlay"
+msgstr "Překrytí obrázku"
+
+#: includes/widgets/image-box.php:161 includes/widgets/testimonial.php:167
+msgid "Image Position"
+msgstr "Pozice obrázku"
+
+#: includes/widgets/testimonial.php:280
+msgid "Image Size"
+msgstr "Velikost obrázku"
+
+#: includes/widgets/image-carousel.php:565
+#: includes/widgets/image-gallery.php:208
+msgid "Image Spacing"
+msgstr "Rozestupy obrázků"
+
+#: core/kits/documents/tabs/theme-style-images.php:21
+#: core/kits/documents/tabs/theme-style-images.php:51
+#: includes/widgets/image-gallery.php:183
+msgid "Images"
+msgstr "Obrázky"
+
+#: includes/widgets/alert.php:99 includes/widgets/button.php:124
+#: includes/widgets/progress.php:114 assets/js/app-packages.js:10690
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:3102
+msgid "Info"
+msgstr "Informace"
+
+#: includes/widgets/progress.php:153 includes/widgets/progress.php:234
+msgid "Inner Text"
+msgstr "Vnitřní text"
+
+#: includes/elements/column.php:702 includes/elements/section.php:1159
+#: includes/widgets/button.php:180 includes/widgets/heading.php:192
+#: includes/widgets/icon-box.php:480 includes/widgets/image-box.php:414
+#: includes/widgets/image-carousel.php:638
+#: includes/widgets/image-gallery.php:295 includes/widgets/image.php:543
+#: includes/widgets/star-rating.php:186 includes/widgets/tabs.php:183
+#: includes/widgets/tabs.php:213 includes/widgets/text-editor.php:204
+msgid "Justified"
+msgstr "Roztaženo"
+
+#: includes/widgets/button.php:95 includes/widgets/heading.php:146
+msgid "Large"
+msgstr "Velký obrázek"
+
+#: core/kits/documents/tabs/settings-layout.php:24
+#: includes/elements/column.php:113 includes/elements/section.php:227
+#: includes/managers/controls.php:303 includes/widgets/icon-list.php:95
+#: assets/js/editor.js:19782
+msgid "Layout"
+msgstr "Rozvržení"
+
+#: includes/controls/dimensions.php:91 includes/elements/column.php:690
+#: includes/elements/section.php:1147 includes/widgets/button.php:168
+#: includes/widgets/common.php:796 includes/widgets/common.php:797
+#: includes/widgets/divider.php:452 includes/widgets/divider.php:740
+#: includes/widgets/divider.php:880 includes/widgets/heading.php:180
+#: includes/widgets/icon-box.php:189 includes/widgets/icon-box.php:468
+#: includes/widgets/icon-list.php:242 includes/widgets/icon-list.php:453
+#: includes/widgets/icon.php:171 includes/widgets/image-box.php:166
+#: includes/widgets/image-box.php:402 includes/widgets/image-carousel.php:363
+#: includes/widgets/image-carousel.php:626
+#: includes/widgets/image-gallery.php:283 includes/widgets/image.php:138
+#: includes/widgets/image.php:531 includes/widgets/social-icons.php:301
+#: includes/widgets/star-rating.php:174 includes/widgets/tabs.php:364
+#: includes/widgets/testimonial.php:190 includes/widgets/text-editor.php:192
+#: modules/shapes/widgets/text-path.php:160
+msgid "Left"
+msgstr "Doleva"
+
+#: core/kits/documents/tabs/theme-style-typography.php:116
+#: includes/widgets/audio.php:103 includes/widgets/button.php:149
+#: includes/widgets/heading.php:124 includes/widgets/icon-box.php:171
+#: includes/widgets/icon-list.php:147 includes/widgets/icon.php:155
+#: includes/widgets/image-box.php:148 includes/widgets/image-carousel.php:176
+#: includes/widgets/image-carousel.php:190
+#: includes/widgets/image-gallery.php:128 includes/widgets/image.php:189
+#: includes/widgets/image.php:203 includes/widgets/social-icons.php:170
+#: includes/widgets/testimonial.php:155 includes/widgets/video.php:126
+#: includes/widgets/video.php:148 includes/widgets/video.php:169
+#: modules/shapes/widgets/text-path.php:141
+msgid "Link"
+msgstr "Vytvořit odkaz"
+
+#: includes/elements/column.php:662 includes/elements/section.php:1119
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: includes/elements/column.php:674 includes/elements/section.php:1131
+msgid "Link Hover Color"
+msgstr "Barva odkazu při přejetí myší"
+
+#: includes/widgets/icon-list.php:123 includes/widgets/icon-list.php:124
+msgid "List Item"
+msgstr "Položka seznamu"
+
+#: includes/widgets/icon-list.php:164
+msgid "List Item #1"
+msgstr "Položka seznamu #1"
+
+#: includes/widgets/icon-list.php:171
+msgid "List Item #2"
+msgstr "Položka seznamu #2"
+
+#: includes/widgets/icon-list.php:178
+msgid "List Item #3"
+msgstr "Položky seznamu #3"
+
+#: core/admin/admin.php:174 includes/editor-templates/editor-wrapper.php:50
+#: includes/editor-templates/templates.php:50 modules/gutenberg/module.php:121
+#: assets/js/app-packages.js:10249
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:488
+msgid "Loading"
+msgstr "Načítá se"
+
+#: includes/widgets/google-maps.php:126
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, Londýn, Velká Británie"
+
+#: includes/widgets/google-maps.php:103 includes/widgets/google-maps.php:198
+msgid "Map"
+msgstr "Zobrazit mapu"
+
+#: includes/elements/column.php:727 includes/elements/section.php:1183
+#: includes/widgets/common.php:134
+msgid "Margin"
+msgstr "Vnější okraj"
+
+#: includes/widgets/image-carousel.php:181
+#: includes/widgets/image-gallery.php:132 includes/widgets/image.php:194
+msgid "Media File"
+msgstr "Mediální soubor"
+
+#: includes/widgets/button.php:94 includes/widgets/heading.php:145
+msgid "Medium"
+msgstr "Průměrné"
+
+#: includes/editor-templates/panel.php:54
+#: includes/editor-templates/panel.php:55
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/widgets/menu-anchor.php:43
+msgid "Menu Anchor"
+msgstr "Anchor menu"
+
+#: includes/elements/column.php:189 includes/elements/section.php:427
+#: includes/elements/section.php:450 includes/widgets/icon-box.php:497
+#: includes/widgets/image-box.php:431
+msgid "Middle"
+msgstr "Na střed"
+
+#: includes/elements/section.php:337 includes/elements/section.php:386
+msgid "Min Height"
+msgstr "Min. výška"
+
+#: includes/elements/section.php:347 includes/elements/section.php:396
+msgid "Minimum Height"
+msgstr "Minimální výška"
+
+#: core/schemes/color.php:147
+msgid "More Palettes"
+msgstr "Další palety"
+
+#: includes/editor-templates/templates.php:109
+#: includes/widgets/testimonial.php:131 includes/widgets/testimonial.php:322
+msgid "Name"
+msgstr "Název"
+
+#: includes/elements/section.php:286
+msgid "Narrow"
+msgstr "Úzký"
+
+#: includes/widgets/image-carousel.php:160
+#: includes/widgets/image-carousel.php:374
+msgid "Navigation"
+msgstr "Navigace"
+
+#: includes/controls/switcher.php:73 includes/managers/icons.php:480
+#: includes/widgets/audio.php:127 includes/widgets/image-carousel.php:151
+#: includes/widgets/image-carousel.php:209
+#: includes/widgets/image-carousel.php:258
+#: includes/widgets/image-carousel.php:272
+#: includes/widgets/image-carousel.php:290
+#: includes/widgets/image-carousel.php:322
+#: includes/widgets/image-gallery.php:148 includes/widgets/image.php:225
+#: assets/js/editor.js:5801
+msgid "No"
+msgstr "Ne"
+
+#: includes/elements/section.php:285
+msgid "No Gap"
+msgstr "Bez mezery"
+
+#: includes/widgets/sidebar.php:87
+msgid "No sidebars were found"
+msgstr "Nebyly nalezeny žádné postranní panely"
+
+#: core/kits/documents/tabs/settings-lightbox.php:99
+#: core/kits/documents/tabs/settings-lightbox.php:116
+#: includes/controls/animation.php:153 includes/controls/groups/border.php:63
+#: includes/controls/hover-animation.php:125 includes/controls/icons.php:108
+#: includes/controls/icons.php:110 includes/elements/section.php:941
+#: includes/widgets/divider.php:479 includes/widgets/image-carousel.php:167
+#: includes/widgets/image-carousel.php:180
+#: includes/widgets/image-carousel.php:224
+#: includes/widgets/image-gallery.php:134 includes/widgets/image.php:162
+#: includes/widgets/image.php:193
+msgid "None"
+msgstr "Žádné"
+
+#: includes/widgets/counter.php:222
+msgid "Number"
+msgstr "Počet"
+
+#: includes/widgets/counter.php:133
+msgid "Number Prefix"
+msgstr "Číslo před"
+
+#: includes/widgets/counter.php:146
+msgid "Number Suffix"
+msgstr "Číslo za"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:92
+#: core/kits/documents/tabs/theme-style-form-fields.php:119
+#: core/kits/documents/tabs/theme-style-images.php:63
+#: core/kits/documents/tabs/theme-style-typography.php:126
+#: includes/elements/column.php:283 includes/elements/column.php:360
+#: includes/elements/column.php:409 includes/elements/column.php:512
+#: includes/elements/column.php:837 includes/elements/section.php:563
+#: includes/elements/section.php:636 includes/elements/section.php:700
+#: includes/elements/section.php:819 includes/elements/section.php:1280
+#: includes/widgets/button.php:308 includes/widgets/common.php:224
+#: includes/widgets/common.php:265 includes/widgets/common.php:332
+#: includes/widgets/google-maps.php:207 includes/widgets/heading.php:261
+#: includes/widgets/icon-box.php:261 includes/widgets/icon.php:205
+#: includes/widgets/image-box.php:297 includes/widgets/image.php:386
+#: modules/shapes/widgets/text-path.php:394
+#: modules/shapes/widgets/text-path.php:492
+msgid "Normal"
+msgstr "Normální"
+
+#: core/document-types/page-base.php:132
+#: core/kits/documents/tabs/theme-style-buttons.php:244
+#: core/kits/documents/tabs/theme-style-form-fields.php:160
+#: includes/elements/column.php:739 includes/elements/section.php:1202
+#: includes/widgets/accordion.php:347 includes/widgets/accordion.php:488
+#: includes/widgets/button.php:440 includes/widgets/common.php:146
+#: includes/widgets/divider.php:822 includes/widgets/icon-box.php:390
+#: includes/widgets/icon.php:316 includes/widgets/social-icons.php:402
+#: includes/widgets/toggle.php:374 includes/widgets/toggle.php:515
+msgid "Padding"
+msgstr "Padding"
+
+#: includes/widgets/image-carousel.php:267
+msgid "Pause on Hover"
+msgstr "Pauza při přejetí myší"
+
+#: includes/widgets/progress.php:125
+msgid "Percentage"
+msgstr "Procenta"
+
+#: includes/widgets/video.php:592 includes/widgets/video.php:658
+msgid "Play Icon"
+msgstr "Ikona přehrávání"
+
+#: includes/widgets/counter.php:152
+msgid "Plus"
+msgstr "Plus"
+
+#: includes/settings/settings.php:448
+msgid "Post Types"
+msgstr "Typy příspěvků"
+
+#: includes/editor-templates/templates.php:172 assets/js/editor.js:19122
+msgid "Preview"
+msgstr "Náhled"
+
+#: core/kits/documents/tabs/global-colors.php:78
+#: core/kits/documents/tabs/global-typography.php:123 core/schemes/color.php:95
+msgid "Primary"
+msgstr "Primární"
+
+#: includes/widgets/divider.php:842 includes/widgets/icon-box.php:268
+#: includes/widgets/icon-box.php:309 includes/widgets/icon.php:212
+#: includes/widgets/icon.php:255 includes/widgets/social-icons.php:198
+#: includes/widgets/social-icons.php:356 includes/widgets/social-icons.php:493
+#: includes/widgets/text-editor.php:278
+msgid "Primary Color"
+msgstr "Primární barva"
+
+#: core/schemes/typography.php:93
+msgid "Primary Headline"
+msgstr "Hlavní nadpis"
+
+#: includes/widgets/progress.php:45 includes/widgets/progress.php:88
+#: includes/widgets/progress.php:178
+msgid "Progress Bar"
+msgstr "Ukazatel průběhu"
+
+#: includes/widgets/image-gallery.php:163
+msgid "Random"
+msgstr "Náhodně"
+
+#: core/schemes/base-ui.php:109 includes/controls/structure.php:65
+msgid "Reset"
+msgstr "Reset"
+
+#: includes/elements/column.php:868 includes/elements/section.php:1312
+#: includes/managers/controls.php:302 includes/widgets/common.php:1007
+msgid "Responsive"
+msgstr "Responzivní"
+
+#: includes/editor-templates/hotkeys.php:108
+#: includes/editor-templates/panel.php:78
+#: includes/editor-templates/panel.php:80
+msgid "Responsive Mode"
+msgstr "Responsivní mód"
+
+#: includes/controls/dimensions.php:89 includes/elements/column.php:698
+#: includes/elements/section.php:1155 includes/widgets/button.php:176
+#: includes/widgets/common.php:796 includes/widgets/common.php:797
+#: includes/widgets/divider.php:460 includes/widgets/divider.php:748
+#: includes/widgets/divider.php:888 includes/widgets/heading.php:188
+#: includes/widgets/icon-box.php:197 includes/widgets/icon-box.php:476
+#: includes/widgets/icon-list.php:250 includes/widgets/icon-list.php:461
+#: includes/widgets/icon.php:179 includes/widgets/image-box.php:174
+#: includes/widgets/image-box.php:410 includes/widgets/image-carousel.php:364
+#: includes/widgets/image-carousel.php:634
+#: includes/widgets/image-gallery.php:291 includes/widgets/image.php:146
+#: includes/widgets/image.php:539 includes/widgets/social-icons.php:309
+#: includes/widgets/star-rating.php:182 includes/widgets/tabs.php:372
+#: includes/widgets/testimonial.php:198 includes/widgets/text-editor.php:200
+#: modules/shapes/widgets/text-path.php:168
+msgid "Right"
+msgstr "Doprava"
+
+#: includes/widgets/divider.php:917 includes/widgets/icon-box.php:410
+#: includes/widgets/icon.php:336 modules/shapes/widgets/text-path.php:270
+msgid "Rotate"
+msgstr "Otáčení"
+
+#: includes/editor-templates/hotkeys.php:75
+#: includes/editor-templates/templates.php:18
+#: includes/editor-templates/templates.php:19
+#: includes/editor-templates/templates.php:218
+#: includes/editor-templates/templates.php:229 assets/js/editor.js:1291
+msgid "Save"
+msgstr "Uložit"
+
+#: includes/editor-templates/panel-elements.php:34
+msgid "Search Widget..."
+msgstr "Hledat widget…"
+
+#: core/kits/documents/tabs/global-colors.php:83
+#: core/kits/documents/tabs/global-typography.php:130 core/schemes/color.php:96
+msgid "Secondary"
+msgstr "Sekundární"
+
+#: includes/widgets/divider.php:859 includes/widgets/icon-box.php:284
+#: includes/widgets/icon-box.php:322 includes/widgets/icon.php:229
+#: includes/widgets/icon.php:269 includes/widgets/social-icons.php:212
+#: includes/widgets/social-icons.php:370 includes/widgets/social-icons.php:508
+#: includes/widgets/text-editor.php:293
+msgid "Secondary Color"
+msgstr "Sekundární barva"
+
+#: core/schemes/typography.php:94
+msgid "Secondary Headline"
+msgstr "Sekundární nadpis"
+
+#: includes/elements/section.php:78 modules/library/documents/section.php:42
+#: assets/js/editor.js:5905
+msgid "Section"
+msgstr "Sekce"
+
+#: includes/controls/icon.php:871 includes/controls/icon.php:872
+msgid "Select Icon"
+msgstr "Zvolte ikonu"
+
+#: includes/widgets/common.php:447 includes/widgets/icon-box.php:123
+#: includes/widgets/icon.php:138 includes/widgets/social-icons.php:257
+msgid "Shape"
+msgstr "Tvar"
+
+#: includes/widgets/alert.php:144 includes/widgets/audio.php:155
+#: includes/widgets/audio.php:166 includes/widgets/audio.php:177
+#: includes/widgets/audio.php:188 includes/widgets/audio.php:202
+#: includes/widgets/audio.php:213 includes/widgets/audio.php:224
+#: includes/widgets/audio.php:235 includes/widgets/counter.php:173
+#: includes/widgets/image-gallery.php:267 includes/widgets/progress.php:144
+#: includes/widgets/video.php:335 includes/widgets/video.php:350
+#: includes/widgets/video.php:377 includes/widgets/video.php:455
+#: includes/widgets/video.php:469 includes/widgets/video.php:483
+#: includes/widgets/video.php:509 includes/widgets/video.php:554
+msgid "Show"
+msgstr "Rozbalit"
+
+#: includes/widgets/sidebar.php:42 includes/widgets/sidebar.php:102
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: includes/widgets/button.php:192 includes/widgets/common.php:499
+#: includes/widgets/divider.php:617 includes/widgets/divider.php:805
+#: includes/widgets/heading.php:139 includes/widgets/icon-box.php:373
+#: includes/widgets/icon-list.php:425 includes/widgets/icon.php:298
+#: includes/widgets/image-carousel.php:414
+#: includes/widgets/image-carousel.php:477
+#: includes/widgets/social-icons.php:385 includes/widgets/star-rating.php:274
+#: includes/widgets/text-editor.php:316 includes/widgets/video.php:686
+#: modules/shapes/widgets/text-path.php:234
+msgid "Size"
+msgstr "Velikost"
+
+#: includes/widgets/image-carousel.php:335
+msgid "Slide"
+msgstr "Snímek"
+
+#: includes/widgets/image-carousel.php:131
+msgid "Slides to Scroll"
+msgstr "Slidy ke scrollování"
+
+#: includes/widgets/image-carousel.php:119
+msgid "Slides to Show"
+msgstr "Slidy k zobrazení"
+
+#: includes/widgets/button.php:93 includes/widgets/heading.php:144
+msgid "Small"
+msgstr "Malé"
+
+#: includes/widgets/divider.php:320 includes/widgets/icon-list.php:278
+#: includes/widgets/star-rating.php:143
+msgid "Solid"
+msgstr "Plný"
+
+#: includes/widgets/spacer.php:42 includes/widgets/spacer.php:101
+msgid "Spacer"
+msgstr "Distanční podložka"
+
+#: includes/widgets/icon-box.php:127 includes/widgets/icon.php:142
+#: includes/widgets/social-icons.php:262
+msgid "Square"
+msgstr "Čtvereček"
+
+#: includes/widgets/divider.php:794 includes/widgets/icon-box.php:112
+#: includes/widgets/icon.php:127 includes/widgets/text-editor.php:267
+msgid "Stacked"
+msgstr "Složené"
+
+#: includes/widgets/counter.php:109
+msgid "Starting Number"
+msgstr "Počáteční číslo"
+
+#: includes/elements/section.php:425
+msgid "Stretch"
+msgstr "Roztáhnout"
+
+#: includes/elements/section.php:531 includes/elements/section.php:539
+msgid "Structure"
+msgstr "Struktura"
+
+#: includes/managers/controls.php:300 includes/settings/settings.php:481
+#: includes/widgets/divider.php:363 includes/widgets/icon-list.php:275
+#: assets/js/editor.js:5190 assets/js/editor.js:19776
+msgid "Style"
+msgstr "CSS"
+
+#: includes/widgets/alert.php:100 includes/widgets/button.php:125
+#: includes/widgets/progress.php:115
+msgid "Success"
+msgstr "Úspěch"
+
+#: includes/widgets/video.php:436
+msgid "Suggested Videos"
+msgstr "Doporučené videa"
+
+#: core/admin/admin-notices.php:235
+msgid "Sure! I'd love to help"
+msgstr "Jistý! Rád bych pomohl"
+
+#: includes/fonts.php:67
+msgid "System"
+msgstr "Systém"
+
+#: core/common/modules/finder/categories/general.php:51
+#: modules/system-info/module.php:128 modules/system-info/module.php:157
+msgid "System Info"
+msgstr "Systémové info"
+
+#: includes/widgets/tabs.php:128
+msgid "Tab #1"
+msgstr "Záložka #1"
+
+#: includes/widgets/tabs.php:132
+msgid "Tab #2"
+msgstr "Záložka #2"
+
+#: includes/widgets/tabs.php:113 includes/widgets/tabs.php:114
+msgid "Tab Content"
+msgstr "Obsah záložky"
+
+#: includes/widgets/tabs.php:100 includes/widgets/tabs.php:101
+msgid "Tab Title"
+msgstr "Nadpis záložky"
+
+#: core/breakpoints/manager.php:298
+#: core/settings/editor-preferences/model.php:134
+#: includes/elements/section.php:1320
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:4133
+msgid "Tablet"
+msgstr "Tablet"
+
+#: includes/widgets/tabs.php:46 includes/widgets/tabs.php:89
+#: includes/widgets/tabs.php:229
+msgid "Tabs"
+msgstr "Panely"
+
+#: includes/widgets/tabs.php:123
+msgid "Tabs Items"
+msgstr "Položky záložek"
+
+#: core/kits/documents/tabs/global-colors.php:88
+#: core/kits/documents/tabs/global-typography.php:137 core/schemes/color.php:97
+#: includes/widgets/button.php:136 includes/widgets/divider.php:483
+#: includes/widgets/divider.php:510 includes/widgets/divider.php:700
+#: includes/widgets/icon-list.php:120 includes/widgets/icon-list.php:482
+#: modules/shapes/widgets/text-path.php:93
+#: modules/shapes/widgets/text-path.php:301
+msgid "Text"
+msgstr "HTML"
+
+#: includes/elements/column.php:686 includes/elements/section.php:1143
+msgid "Text Align"
+msgstr "Zarovnání textu"
+
+#: core/kits/documents/tabs/settings-lightbox.php:163
+#: core/kits/documents/tabs/theme-style-buttons.php:99
+#: core/kits/documents/tabs/theme-style-buttons.php:174
+#: core/kits/documents/tabs/theme-style-form-fields.php:177
+#: core/kits/documents/tabs/theme-style-typography.php:56
+#: includes/elements/column.php:650 includes/elements/section.php:1107
+#: includes/widgets/alert.php:221 includes/widgets/alert.php:261
+#: includes/widgets/button.php:315 includes/widgets/button.php:357
+#: includes/widgets/counter.php:230 includes/widgets/counter.php:273
+#: includes/widgets/heading.php:225 includes/widgets/icon-list.php:490
+#: includes/widgets/image-carousel.php:652
+#: includes/widgets/image-gallery.php:312 includes/widgets/image.php:557
+#: includes/widgets/progress.php:283 includes/widgets/star-rating.php:213
+#: includes/widgets/testimonial.php:232 includes/widgets/testimonial.php:330
+#: includes/widgets/testimonial.php:375 includes/widgets/text-editor.php:217
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: includes/widgets/text-editor.php:46 includes/widgets/text-editor.php:105
+#: includes/widgets/text-editor.php:180
+msgid "Text Editor"
+msgstr "Textový editor"
+
+#: includes/widgets/icon-list.php:517
+msgid "Text Indent"
+msgstr "Odsazení textu"
+
+#: includes/widgets/accordion.php:97 includes/widgets/alert.php:111
+#: includes/widgets/icon-box.php:141 includes/widgets/image-box.php:118
+#: includes/widgets/tabs.php:98 includes/widgets/toggle.php:98
+msgid "Title & Description"
+msgstr "Název & popis"
+
+#: includes/widgets/progress.php:275
+msgid "Title Style"
+msgstr "Styl titulků"
+
+#: includes/widgets/toggle.php:46 includes/widgets/toggle.php:89
+#: includes/widgets/toggle.php:241
+msgid "Toggle"
+msgstr "Přepínač"
+
+#: core/base/document.php:1525
+#: core/kits/documents/tabs/settings-lightbox.php:96
+#: core/kits/documents/tabs/settings-lightbox.php:100
+#: core/kits/documents/tabs/settings-lightbox.php:117
+#: includes/elements/column.php:122 includes/elements/section.php:236
+#: includes/widgets/accordion.php:279 includes/widgets/alert.php:213
+#: includes/widgets/common.php:125 includes/widgets/counter.php:197
+#: includes/widgets/counter.php:265 includes/widgets/heading.php:104
+#: includes/widgets/heading.php:111 includes/widgets/heading.php:217
+#: includes/widgets/icon-box.php:508 includes/widgets/image-box.php:442
+#: includes/widgets/image-carousel.php:225 includes/widgets/progress.php:95
+#: includes/widgets/star-rating.php:158 includes/widgets/star-rating.php:202
+#: includes/widgets/tabs.php:303 includes/widgets/testimonial.php:143
+#: includes/widgets/testimonial.php:367 includes/widgets/toggle.php:306
+msgid "Title"
+msgstr "Titul"
+
+#: includes/widgets/toggle.php:129
+msgid "Toggle #1"
+msgstr "Přepnout #1"
+
+#: includes/widgets/toggle.php:133
+msgid "Toggle #2"
+msgstr "Přepnout #2"
+
+#: includes/widgets/toggle.php:113
+msgid "Toggle Content"
+msgstr "Přepnout - obsah"
+
+#: includes/widgets/toggle.php:124
+msgid "Toggle Items"
+msgstr "Položky k přepínaní"
+
+#: includes/widgets/toggle.php:100
+msgid "Toggle Title"
+msgstr "Titulek k přepnutí"
+
+#: includes/controls/dimensions.php:88 includes/elements/column.php:188
+#: includes/elements/section.php:426 includes/elements/section.php:449
+#: includes/elements/section.php:949 includes/widgets/common.php:911
+#: includes/widgets/icon-box.php:193 includes/widgets/icon-box.php:496
+#: includes/widgets/image-box.php:170 includes/widgets/image-box.php:430
+#: includes/widgets/testimonial.php:172 includes/widgets/video.php:797
+msgid "Top"
+msgstr "Nahoru"
+
+#: includes/editor-templates/templates.php:113
+#: includes/elements/section.php:964
+#: includes/template-library/sources/local.php:1605
+#: includes/widgets/alert.php:95 includes/widgets/button.php:119
+#: includes/widgets/progress.php:109
+msgid "Type"
+msgstr "Typ"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:73
+#: core/kits/documents/tabs/theme-style-form-fields.php:90
+#: core/kits/documents/tabs/theme-style-form-fields.php:108
+#: core/kits/documents/tabs/theme-style-typography.php:19
+#: core/kits/documents/tabs/theme-style-typography.php:38
+#: core/kits/documents/tabs/theme-style-typography.php:68
+#: core/kits/documents/tabs/theme-style-typography.php:145
+#: core/kits/documents/tabs/theme-style-typography.php:175
+#: core/kits/documents/tabs/theme-style-typography.php:221
+#: core/schemes/typography.php:64 includes/elements/column.php:628
+#: includes/elements/section.php:1086 assets/js/editor-modules.js:2250
+#: assets/js/editor.js:25588
+msgid "Typography"
+msgstr "Písmo"
+
+#: includes/controls/groups/typography.php:106
+msgctxt "Typography Control"
+msgid "Family"
+msgstr "Rodina"
+
+#: includes/controls/groups/typography.php:207
+msgctxt "Typography Control"
+msgid "Letter Spacing"
+msgstr "Mezery mezi písmeny"
+
+#: includes/controls/groups/typography.php:185
+msgctxt "Typography Control"
+msgid "Line-Height"
+msgstr "Výška řádku"
+
+#: includes/controls/groups/typography.php:113
+msgctxt "Typography Control"
+msgid "Size"
+msgstr "Velikost"
+
+#: includes/controls/groups/typography.php:160
+msgctxt "Typography Control"
+msgid "Style"
+msgstr "CSS"
+
+#: includes/controls/groups/typography.php:147
+msgctxt "Typography Control"
+msgid "Transform"
+msgstr "Transformace"
+
+#: includes/controls/groups/typography.php:301
+msgctxt "Typography Control"
+msgid "Typography"
+msgstr "Písmo"
+
+#: includes/controls/groups/typography.php:140
+msgctxt "Typography Control"
+msgid "Weight"
+msgstr "Váha"
+
+#: includes/widgets/accordion.php:140 includes/widgets/alert.php:153
+#: includes/widgets/audio.php:251 includes/widgets/button.php:247
+#: includes/widgets/counter.php:211 includes/widgets/divider.php:501
+#: includes/widgets/divider.php:790 includes/widgets/google-maps.php:187
+#: includes/widgets/heading.php:206 includes/widgets/icon-box.php:108
+#: includes/widgets/icon.php:123 includes/widgets/image-box.php:206
+#: includes/widgets/image-carousel.php:235
+#: includes/widgets/image-gallery.php:172 includes/widgets/image.php:236
+#: includes/widgets/progress.php:167 includes/widgets/social-icons.php:324
+#: includes/widgets/spacer.php:133 includes/widgets/tabs.php:143
+#: includes/widgets/testimonial.php:212 includes/widgets/text-editor.php:263
+#: includes/widgets/toggle.php:144 includes/widgets/video.php:533
+msgid "View"
+msgstr "Zobrazení"
+
+#: includes/elements/section.php:1342
+msgid "Visibility"
+msgstr "Viditelnost"
+
+#: includes/widgets/alert.php:101 includes/widgets/button.php:126
+#: includes/widgets/progress.php:116
+msgid "Warning"
+msgstr "Varování"
+
+#: includes/widgets/progress.php:159
+msgid "Web Designer"
+msgstr "Web Designer"
+
+#: includes/widgets/divider.php:592 includes/widgets/icon-list.php:297
+msgid "Weight"
+msgstr "Váha"
+
+#: includes/elements/section.php:288
+msgid "Wide"
+msgstr "Široký"
+
+#: includes/editor-templates/panel.php:59
+#: includes/editor-templates/panel.php:60
+msgid "Widgets Panel"
+msgstr "Panel widgetů"
+
+#: includes/controls/image-dimensions.php:95 includes/elements/section.php:259
+#: includes/elements/section.php:989 includes/widgets/common.php:682
+#: includes/widgets/divider.php:421 includes/widgets/icon-list.php:321
+#: includes/widgets/image-box.php:248 includes/widgets/image.php:255
+#: modules/shapes/widgets/text-path.php:531
+#: modules/shapes/widgets/text-path.php:597
+msgid "Width"
+msgstr "Šířka"
+
+#: includes/managers/elements.php:313
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/widgets/heading.php:147
+msgid "XL"
+msgstr "XL"
+
+#: includes/widgets/heading.php:148
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/controls/switcher.php:74 includes/managers/icons.php:481
+#: includes/widgets/audio.php:126 includes/widgets/image-carousel.php:152
+#: includes/widgets/image-carousel.php:208
+#: includes/widgets/image-carousel.php:257
+#: includes/widgets/image-carousel.php:271
+#: includes/widgets/image-carousel.php:289
+#: includes/widgets/image-carousel.php:321
+#: includes/widgets/image-gallery.php:147 includes/widgets/image.php:224
+#: assets/js/editor.js:5800
+msgid "Yes"
+msgstr "Ano"
+
+#: modules/system-info/module.php:161
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "Můžete kopírovat následujících informací jako prostý text s Ctrl + C / Ctrl + V:"
+
+#: includes/widgets/video.php:114
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/widgets/progress.php:158
+msgid "e.g. Web Designer"
+msgstr "například Web Designer"
+
+#: core/admin/admin.php:155 core/admin/admin.php:163 core/base/document.php:477
+#: modules/admin-bar/module.php:123 modules/gutenberg/module.php:100
+#: modules/gutenberg/module.php:110
+msgid "Edit with Elementor"
+msgstr "Upravit s Elementorem"
+
+#: modules/gutenberg/module.php:97
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Zpět do WordPress editoru"
+
+#: includes/widgets/alert.php:128
+msgid "I am a description. Click the edit button to change this text."
+msgstr "Já jsem popis. Klepněte na tlačítko Upravit a změňte tento text."
+
+#: includes/widgets/button.php:154 includes/widgets/icon-box.php:176
+#: includes/widgets/icon-list.php:152 includes/widgets/icon.php:160
+#: includes/widgets/image-box.php:153 includes/widgets/image-carousel.php:192
+#: includes/widgets/image.php:208 includes/widgets/social-icons.php:178
+#: includes/widgets/testimonial.php:160
+msgid "https://your-link.com"
+msgstr "https://vase-adresa.cz"
+
+#: includes/widgets/video.php:631
+msgid "Aspect Ratio"
+msgstr "Poměr stran"
+
+#: core/admin/admin.php:474
+msgid "Help"
+msgstr "Nápověda"
+
+#: core/base/document.php:1517
+#: core/common/modules/finder/categories/settings.php:46
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: includes/controls/groups/background.php:634
+msgctxt "Background Control"
+msgid "Background Fallback"
+msgstr "Záložní pozadí"
+
+#: includes/widgets/menu-anchor.php:95
+msgid "For Example: About"
+msgstr "Například: O nás"
+
+#: includes/widgets/menu-anchor.php:93
+msgid "The ID of Menu Anchor."
+msgstr "ID kotvy menu"
+
+#: includes/widgets/menu-anchor.php:96
+msgid "This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr "Toto ID bude CSS ID, které budete muset použít na Vaši stránce bez #."
+
+#: core/common/modules/finder/categories/edit.php:30
+#: includes/controls/popover-toggle.php:68
+msgid "Edit"
+msgstr "Upravit"
+
+#: includes/widgets/video.php:332
+msgid "Player Controls"
+msgstr "Ovládání přehrávače"
+
+#: core/settings/editor-preferences/model.php:135
+#: includes/base/element-base.php:681 includes/editor-templates/panel.php:242
+#: assets/js/kit-library.d3688acfaab28676a99c.bundle.js:4126
+msgid "Desktop"
+msgstr "Desktop"
+
+#: modules/system-info/module.php:199
+msgid "You don't have permissions to download this file"
+msgstr "Nemáte oprávnění ke stažení požadovaného souboru"
+
+#: includes/controls/groups/background.php:499
+msgctxt "Background Control"
+msgid "Width"
+msgstr "Šířka"
+
+#: includes/controls/groups/background.php:228
+#: includes/controls/groups/background.php:273
+#: includes/controls/groups/background.php:735
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "Uprostřed"
+
+#: core/common/modules/finder/categories/site.php:60
+msgid "Themes"
+msgstr "Šablony"
+
+#: core/experiments/manager.php:305 core/experiments/manager.php:480
+msgid "Active"
+msgstr "Aktivní"
+
+#: core/experiments/manager.php:306 core/experiments/manager.php:480
+msgid "Inactive"
+msgstr "Vypnuto"
+
+#: core/breakpoints/manager.php:308
+msgid "Laptop"
+msgstr "Notebook"
